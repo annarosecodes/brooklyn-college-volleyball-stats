@@ -1,0 +1,21 @@
+Category,Statistic,Brooklyn,Opponents
+Attack,Kills K,883,1106
+Attack,Errors ATE,570,680
+Attack,Attempts ATT,3463,3767
+Attack,Percent ATT%,.090,.113
+Attack,Kills Per Set K/S,8.1,10.1
+Set,Assists AST,804,1026
+Set,Assists Per Set AST/S,7.4,9.4
+Set,Ball Handling Errors BHE,3,1
+Serve,Aces SA,319,294
+Serve,Errors SE,277,338
+Serve,Aces Per Set SA/S,2.9,2.7
+Receptions,Errors RE,294,319
+Receptions,Errors Per Set RE/S,2.7,2.9
+Defense,Digs DIG,1720,1835
+Defense,Digs Per Set DIG/S,15.8,16.8
+Blocking,Solo BS,66,38
+Blocking,Assists BA,253,158
+Blocking,Errors BE,26,25
+Blocking,Blocks BLK,192.5,117.0
+Blocking,Blocks Per Set BLK/S,1.8,1.1
