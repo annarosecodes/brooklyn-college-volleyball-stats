@@ -10,6 +10,101 @@ print(response.status_code)
 
 soup = BeautifulSoup(response.text, "html.parser")
 pre_blocks = soup.find_all("pre")
+match_lines = pre_blocks[4].get_text().splitlines()
+
+print("Match statistics lines:", len(match_lines))
+
+match_result_lines = match_lines[73:97]
+
+print("Match rows collected:", len(match_result_lines))
+print("First match:", match_result_lines[0])
+print("Last match:", match_result_lines[-1])
+first_match_parts = match_result_lines[0].split()
+print("First match split:", first_match_parts)
+last_match_parts = match_result_lines[-1].split()
+print("Last match split:", last_match_parts)
+result = last_match_parts[-4]
+match_score = last_match_parts[-3]
+set_scores = last_match_parts[-2]
+attendance = last_match_parts[-1]
+
+print("Result:", result)
+print("Match score:", match_score)
+print("Set scores:", set_scores)
+print("Attendance:", attendance)
+if "/" in last_match_parts[0]:
+    match_date = last_match_parts[0]
+    opponent = " ".join(last_match_parts[1:-4])
+else:
+    match_date = " ".join(last_match_parts[:2])
+    opponent = " ".join(last_match_parts[2:-4])
+
+print("Date:", match_date)
+print("Opponent:", opponent)
+match_rows = []
+for line in match_result_lines:
+    parts = line.split()
+    is_conference = parts[0] == "*"
+
+    if is_conference:
+        parts.pop(0)
+
+    if "/" in parts[0]:
+        match_date = parts[0]
+        opponent = "  ".join(parts[1:-4])
+
+    else:
+        match_date = " ".join(parts[:2])
+        opponent = "  ".join(parts[2:-4])
+
+    result = parts[-4]
+    match_score = parts[-3]
+    set_scores = parts[-2]
+    attendance = parts[-1]
+
+    print(match_date, "|", opponent, "|", result, "|", match_score, "|", set_scores, "|", attendance)
+    opponent = " ".join(opponent.split())
+    match_rows.append([
+        2007,
+        "Men's Volleyball",
+        match_date,
+        opponent,
+        is_conference,
+        result,
+        match_score,
+        set_scores,
+        attendance
+    ])
+print("Match rows saved:", len(match_rows))
+print("First match row:", match_rows[0])
+print("Last match row:", match_rows[-1])
+match_headers = [
+    "Season",
+    "Team",
+    "Date",
+    "Opponent",
+    "Conference",
+    "Result",
+    "Match Score",
+    "Set Scores",
+    "Attendance"
+]
+
+print("Number of match headers:", len(match_headers))
+with open("brooklyn_mens_volleyball_2007_match_stats.csv", "w", newline="", encoding="utf-8") as file:
+    writer = csv.writer(file)
+    writer.writerow(match_headers)
+    writer.writerows(match_rows)
+
+print("Match statistics CSV saved!")
+with open("brooklyn_mens_volleyball_2007_match_stats.csv", "r", encoding="utf-8") as file:
+    reader = csv.reader(file)
+    saved_rows = list(reader)
+
+print("Total CSV rows:", len(saved_rows))
+print("CSV headers:", saved_rows[0])
+print("First saved match:", saved_rows[1])
+print("Last saved match:", saved_rows[-1])
 individual_lines = pre_blocks[1].get_text().splitlines()
 
 for i, line in enumerate(individual_lines):
