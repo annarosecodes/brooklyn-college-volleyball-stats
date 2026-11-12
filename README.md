@@ -1,42 +1,100 @@
-**Brooklyn College Volleyball Statistics — 2025**
+# Brooklyn College Volleyball Statistics
 
-**Project Overview:**
-This repository contains Python web-scraping scripts and CSV datasets for Brooklyn College's 2025 men's and women's volleyball teams.
+## Project Overview
+
+This repository contains Python web-scraping scripts and CSV datasets for Brooklyn College men's and women's volleyball teams.
+
 The project contributes to the development of structured, reproducible sports datasets for CUNY sports analytics research.
 
-**Data Sources** - 
-Statistics were collected from the official Brooklyn College Athletics website:
+The repository currently includes historical men's volleyball statistics from 2007–2025 and women's volleyball statistics for 2025.
 
-**Men's Volleyball — 2025 Statistics**__ (https://www.brooklyncollegeathletics.com/sports/mens-volleyball/stats/2025)
-**Women's Volleyball — 2025 Statistics **__(https://www.brooklyncollegeathletics.com/sports/womens-volleyball/stats/2025)
+## Data Sources
 
-**Statistics Collected** - 
-For each team, the scripts extract three types of information from the website:
+Statistics were collected from the official Brooklyn College Athletics website.
 
-Individual → Overall → Offensive and Defensive Statistics: Season-level player statistics, including a combined offensive and defensive dataset.
+- [Men's Volleyball — 2025 Statistics](https://www.brooklyncollegeathletics.com/sports/mens-volleyball/stats/2025)
+- [Women's Volleyball — 2025 Statistics](https://www.brooklyncollegeathletics.com/sports/womens-volleyball/stats/2025)
 
-Match-By-Match → Brooklyn: Team performance for each match during the 2025 season.
+Historical men's volleyball statistics were collected from Brooklyn College Athletics' archived statistics pages and newer season statistics pages.
 
-Overall Team Statistics: Season-level team statistics comparing Brooklyn College with its opponents.
+## Men's Volleyball — Historical Statistics (2007–2025)
 
-**Repository Contents** - 
-The repository contains:
-4 Python scripts: Two original volleyball scrapers and two scripts for Overall Team Statistics.
-8 CSV datasets: Four for men's volleyball and four for women's volleyball.
+The historical men's volleyball dataset includes:
 
-**Each team's datasets include:**
-Individual offensive statistics
-Combined individual offensive and defensive statistics
-Match-by-match Brooklyn team statistics
-Overall team statistics comparing Brooklyn and opponents
+- **18 available seasons:** 2007–2020 and 2022–2025
+- **54 historical CSV files**
+- **1,046 data rows**
+- **Three datasets per season:** individual, match, and team statistics
 
-**Data Processing** - 
-The Python scripts use requests, BeautifulSoup, and pandas to retrieve HTML statistics tables, extract relevant information, clean and organize the data, and export it to CSV files.
-The Overall Team Statistics datasets preserve the original categories: Attack, Set, Serve, Receptions, Defense, and Blocking.
+The 2021 season is excluded because athletics competitions were canceled during the COVID-19 pandemic.
 
-**Current Scope** - 
-This repository currently covers the 2025 season only for Brooklyn College men's and women's volleyball.
-Conference-specific individual statistics, separate overall opponent match-by-match datasets, and additional seasons have not yet been collected.
+### Historical Dataset Types
 
-**Development Notes** - 
-The scripts were developed with assistance from ChatGPT for Python programming, HTML table extraction, data cleaning, and debugging. The resulting datasets were inspected and checked against the source table structure.
+**Individual Statistics:** Player-level offensive and defensive statistics.
+
+**Match Statistics:** Historical match results or match-by-match team performance statistics, depending on the season.
+
+**Team Statistics:** Season-level statistics comparing Brooklyn College with its opponents.
+
+### File Naming Convention
+
+Historical files follow this naming pattern:
+
+`brooklyn_mens_volleyball_YEAR_TYPE_stats.csv`
+
+Where `TYPE` is `individual`, `match`, or `team`.
+
+### Historical Data Notes
+
+The source website's statistics format changed over time.
+
+- **2007–2014:** Historical statistics tables and match results.
+- **2015–2020 and 2022–2025:** Newer statistics tables and match-by-match performance data.
+
+Some column names and available statistics differ between these periods. The historical datasets preserve information from their respective sources rather than assuming every season uses an identical schema.
+
+## Women's Volleyball — 2025
+
+The repository includes four original women's volleyball datasets for the 2025 season:
+
+- Individual offensive statistics
+- Combined individual offensive and defensive statistics
+- Match-by-match Brooklyn team statistics
+- Overall team statistics comparing Brooklyn College and its opponents
+
+Historical women's volleyball statistics are planned for future development.
+
+## Data Processing
+
+Python scripts use `requests`, `BeautifulSoup`, and `pandas` where applicable to retrieve HTML statistics tables, extract information, clean and organize records, and export CSV files.
+
+The team-statistics datasets preserve the original categories: Attack, Set, Serve, Receptions, Defense, and Blocking.
+
+Additional scripts support historical season scraping, player-record matching, CSV standardization, and data validation.
+
+## Data Validation
+
+A validation script checks historical men's volleyball datasets for:
+
+- Expected CSV files
+- Required season and team columns
+- Correct season identifiers
+- Malformed rows and empty datasets
+
+**Validation results:** All 54 historical men's volleyball CSV files passed basic structural checks, with zero reported problems.
+
+These checks do not independently verify every statistic against the original athletics records.
+
+## Current Scope and Future Development
+
+- Men's historical volleyball statistics: 2007–2025, excluding 2021
+- Women's volleyball statistics: 2025
+- Planned: Historical women's volleyball statistics
+
+Conference-specific individual statistics and separate opponent match-by-match datasets are not yet included in the historical collection.
+
+## Development Notes
+
+The scripts were developed with assistance from ChatGPT for Python programming, HTML table extraction, data cleaning, debugging, and validation.
+
+The resulting datasets were inspected against source table structures and checked for basic structural consistency.
