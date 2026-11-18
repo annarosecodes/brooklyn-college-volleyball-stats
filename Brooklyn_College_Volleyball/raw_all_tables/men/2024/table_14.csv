@@ -1,0 +1,8 @@
+﻿HTML_Row,Cell_1,Cell_2
+1,"{""text"": ""Player"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""High"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+2,"{""text"": ""Blocks"", ""tag"": ""td"", ""colspan"": ""2"", ""rowspan"": ""1""}",
+3,"{""text"": ""Abdusamiev, Aziz"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""37.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+4,"{""text"": ""Lin, Jason"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""33.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+5,"{""text"": ""Siu, Aaron"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""13.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+6,"{""text"": ""Flanders, Jiaian"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""12.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+7,"{""text"": ""Kaloshi, Armand"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""11.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"

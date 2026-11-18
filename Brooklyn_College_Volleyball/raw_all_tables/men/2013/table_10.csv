@@ -1,0 +1,8 @@
+﻿HTML_Row,Cell_1,Cell_2
+1,"{""text"": ""Player"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""High"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+2,"{""text"": ""Kills"", ""tag"": ""td"", ""colspan"": ""2"", ""rowspan"": ""1""}",
+3,"{""text"": ""Dimitruk, David"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""244"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+4,"{""text"": ""Hui, Timothy"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""171"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+5,"{""text"": ""Gotowicki, Mateusz"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""96"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+6,"{""text"": ""Moline, Lucas"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""88"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+7,"{""text"": ""Ko, Dukhyun"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""62"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"

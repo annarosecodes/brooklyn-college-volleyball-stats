@@ -1,0 +1,8 @@
+﻿HTML_Row,Cell_1,Cell_2
+1,"{""text"": ""Player"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""High"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+2,"{""text"": ""Blocks"", ""tag"": ""td"", ""colspan"": ""2"", ""rowspan"": ""1""}",
+3,"{""text"": ""Duncan, Kela"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""41.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+4,"{""text"": ""Elkotby, Ayatallah"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""40.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+5,"{""text"": ""Fuxman, Danielle"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""34.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+6,"{""text"": ""Fan, Olivia"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""24.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+7,"{""text"": ""Andrews, Meadow"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""18.0"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"

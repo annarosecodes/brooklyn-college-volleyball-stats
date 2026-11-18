@@ -1,0 +1,8 @@
+﻿HTML_Row,Cell_1,Cell_2
+1,"{""text"": ""Player"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""High"", ""tag"": ""th"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+2,"{""text"": ""Service Aces"", ""tag"": ""td"", ""colspan"": ""2"", ""rowspan"": ""1""}",
+3,"{""text"": ""Shor, Ezri"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""58"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+4,"{""text"": ""Cronk, Madison"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""56"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+5,"{""text"": ""Fung, Ashley"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""36"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+6,"{""text"": ""Shaposhnikova , Yana"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""31"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"
+7,"{""text"": ""Chen, Alejandra"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}","{""text"": ""29"", ""tag"": ""td"", ""colspan"": ""1"", ""rowspan"": ""1""}"

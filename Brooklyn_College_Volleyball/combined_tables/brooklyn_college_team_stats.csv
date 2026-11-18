@@ -1,0 +1,361 @@
+School,Season,Gender,Scope,Category,Statistic,Brooklyn,Opponents,SourceFile
+Brooklyn College,2007,Men,Unverified,ATTACK,Kills,1097,971,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,ATTACK,Errors,536,476,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,ATTACK,Total Attacks,2743,2498,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,ATTACK,Attack Pct,.205,.198,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,ATTACK,Kills/Game,12.9,11.4,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,SET,Assists,983,877,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,SET,Assists/Game,11.6,10.3,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,SERVE,Aces,136,83,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,SERVE,Errors,195,208,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,SERVE,Aces/Game,1.6,1.0,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,SERVE RECEPTIONS,Errors,90,136,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,SERVE RECEPTIONS,Errors/Game,1.1,1.6,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,DEFENSE,Digs,1012,928,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,DEFENSE,Digs/Game,11.9,10.9,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,BLOCKING,Block Solo,111,96,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,BLOCKING,Block Assist,120,216,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,BLOCKING,Total Blocks,171.0,204.0,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,BLOCKING,Blocks Per Game,2.0,2.4,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,BLOCKING,Block Errors,74,77,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2007,Men,Unverified,BALL HANDLING,BALL HANDLING ERRORS,78,78,brooklyn_mens_volleyball_2007_team_stats.csv
+Brooklyn College,2008,Men,Unverified,ATTACK,Kills,811,844,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,ATTACK,Errors,515,357,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,ATTACK,Total Attacks,2287,1979,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,ATTACK,Attack Pct,.129,.246,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,ATTACK,Kills/Game,10.1,10.6,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,SET,Assists,752,744,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,SET,Assists/Game,9.4,9.3,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,SERVE,Aces,113,132,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,SERVE,Errors,222,216,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,SERVE,Aces/Game,1.4,1.6,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,SERVE RECEPTIONS,Errors,128,93,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,SERVE RECEPTIONS,Errors/Game,1.6,1.2,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,DEFENSE,Digs,768,791,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,DEFENSE,Digs/Game,9.6,9.9,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,BLOCKING,Block Solo,40,76,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,BLOCKING,Block Assist,29,206,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,BLOCKING,Total Blocks,54.5,179.0,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,BLOCKING,Blocks Per Game,0.7,2.2,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,BLOCKING,Block Errors,33,89,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2008,Men,Unverified,BALL HANDLING,BALL HANDLING ERRORS,64,60,brooklyn_mens_volleyball_2008_team_stats.csv
+Brooklyn College,2009,Men,Unverified,ATTACK,Kills,755,805,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,ATTACK,Errors,499,326,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,ATTACK,Total Attacks,2261,1969,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,ATTACK,Attack Pct,.113,.243,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,ATTACK,Kills/Game,10.6,11.3,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,SET,Assists,677,711,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,SET,Assists/Game,9.5,10.0,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,SERVE,Aces,123,151,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,SERVE,Errors,227,195,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,SERVE,Aces/Game,1.7,2.1,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,SERVE RECEPTIONS,Errors,174,104,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,SERVE RECEPTIONS,Errors/Game,2.5,1.5,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,DEFENSE,Digs,903,775,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,DEFENSE,Digs/Game,12.7,10.9,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,BLOCKING,Block Solo,58,62,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,BLOCKING,Block Assist,57,103,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,BLOCKING,Total Blocks,86.5,113.5,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,BLOCKING,Blocks Per Game,1.2,1.6,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,BLOCKING,Block Errors,63,42,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2009,Men,Unverified,BALL HANDLING,BALL HANDLING ERRORS,23,37,brooklyn_mens_volleyball_2009_team_stats.csv
+Brooklyn College,2010,Men,Unverified,ATTACK,Kills,619,846,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,ATTACK,Attack Errors,414,390,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,ATTACK,Total Attacks,1964,2068,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,ATTACK,Attack Pct,.104,.221,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,ATTACK,Kills/Game,9.4,12.8,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,SET,Assists,567,718,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,SET,Assists/Game,8.6,10.9,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,SERVE,Aces,110,181,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,SERVE,Service Errors,172,203,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,SERVE,Aces/Game,1.7,2.7,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,SERVE RECEPTIONS,Reception Errors,181,103,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,SERVE RECEPTIONS,Errors/Game,2.7,1.6,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,DEFENSE,Digs,803,748,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,DEFENSE,Digs/Game,12.2,11.3,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,BLOCKING,Block Solo,85,88,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,BLOCKING,Block Assist,92,102,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,BLOCKING,Total Blocks,131.0,139.0,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,BLOCKING,Blocks Per Game,2.0,2.1,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,BLOCKING,Block Errors,80,70,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2010,Men,Unverified,BALL HANDLING ERRORS,BALL HANDLING ERRORS,24,28,brooklyn_mens_volleyball_2010_team_stats.csv
+Brooklyn College,2011,Men,Unverified,ATTACK,Kills,697,710,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,ATTACK,Attack Errors,473,373,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,ATTACK,Total Attacks,1862,1796,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,ATTACK,Attack Pct,.120,.188,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,ATTACK,Kills/Set,9.7,9.9,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,SET,Assists,635,630,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,SET,Assists/Set,8.8,8.8,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,SERVE,Aces,104,117,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,SERVE,Service Errors,189,214,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,SERVE,Aces/Set,1.4,1.6,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,SERVE RECEPTIONS,Reception Errors,114,105,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,SERVE RECEPTIONS,Errors/Set,1.6,1.5,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,DEFENSE,Digs,594,601,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,DEFENSE,Digs/Set,8.2,8.3,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,BLOCKING,Block Solo,42,61,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,BLOCKING,Block Assist,86,107,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,BLOCKING,Total Blocks,85.0,114.5,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,BLOCKING,Blocks/Set,1.2,1.6,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,BLOCKING,Block Errors,48,31,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2011,Men,Unverified,BLOCKING,Ball handling errors,51,31,brooklyn_mens_volleyball_2011_team_stats.csv
+Brooklyn College,2012,Men,Unverified,ATTACK,Kills,758,740,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,ATTACK,Attack Errors,470,364,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,ATTACK,Total Attacks,2065,1872,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,ATTACK,Attack Pct,.139,.201,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,ATTACK,Kills/Set,9.7,9.5,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,SET,Assists,672,676,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,SET,Assists/Set,8.6,8.7,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,SERVE,Aces,137,99,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,SERVE,Service Errors,263,236,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,SERVE,Aces/Set,1.8,1.3,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,SERVE RECEPTIONS,Reception Errors,98,136,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,SERVE RECEPTIONS,Errors/Set,1.3,1.7,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,DEFENSE,Digs,670,656,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,DEFENSE,Digs/Set,8.6,8.4,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,BLOCKING,Block Solo,38,72,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,BLOCKING,Block Assist,92,138,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,BLOCKING,Total Blocks,84.0,141.0,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,BLOCKING,Blocks/Set,1.1,1.8,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,BLOCKING,Block Errors,26,65,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2012,Men,Unverified,BLOCKING,Ball handling errors,20,39,brooklyn_mens_volleyball_2012_team_stats.csv
+Brooklyn College,2013,Men,Unverified,ATTACK,Kills,854,759,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,ATTACK,Attack Errors,554,401,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,ATTACK,Total Attacks,2445,2208,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,ATTACK,Attack Pct,.123,.162,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,ATTACK,Kills/Set,9.8,8.7,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,SET,Assists,790,694,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,SET,Assists/Set,9.1,8.0,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,SERVE,Aces,139,94,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,SERVE,Service Errors,258,230,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,SERVE,Aces/Set,1.6,1.1,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,SERVE RECEPTIONS,Reception Errors,91,138,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,SERVE RECEPTIONS,Errors/Set,1.0,1.6,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,DEFENSE,Digs,938,848,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,DEFENSE,Digs/Set,10.8,9.7,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,BLOCKING,Block Solo,30,57,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,BLOCKING,Block Assist,114,144,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,BLOCKING,Total Blocks,87.0,129.0,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,BLOCKING,Blocks/Set,1.0,1.5,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,BLOCKING,Block Errors,34,58,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2013,Men,Unverified,BLOCKING,Ball handling errors,57,27,brooklyn_mens_volleyball_2013_team_stats.csv
+Brooklyn College,2014,Men,Unverified,ATTACK,Kills,1134,915,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,ATTACK,Attack Errors,636,497,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,ATTACK,Total Attacks,2869,2538,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,ATTACK,Attack Pct,.174,.165,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,ATTACK,Kills/Set,10.4,8.4,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,SET,Assists,1054,850,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,SET,Assists/Set,9.7,7.8,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,SERVE,Aces,227,127,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,SERVE,Service Errors,380,356,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,SERVE,Aces/Set,2.1,1.2,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,SERVE RECEPTIONS,Reception Errors,132,220,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,SERVE RECEPTIONS,Errors/Set,1.2,2.0,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,DEFENSE,Digs,1062,904,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,DEFENSE,Digs/Set,9.7,8.3,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,BLOCKING,Block Solo,40,55,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,BLOCKING,Block Assist,191,260,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,BLOCKING,Total Blocks,135.5,185.0,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,BLOCKING,Blocks/Set,1.2,1.7,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,BLOCKING,Block Errors,51,74,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2014,Men,Unverified,BLOCKING,Ball handling errors,35,33,brooklyn_mens_volleyball_2014_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Attack,Kills K,267,723,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Attack,Errors ATE,361,298,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Attack,Attempts ATT,1335,1589,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Attack,Percent ATT%,-.070,.267,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Attack,Kills Per Set K/S,4.0,11.0,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Set,Assists AST,214,623,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Set,Assists Per Set AST/S,3.2,9.4,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Set,Ball Handling Errors BHE,49,25,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Serve,Aces SA,72,285,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Serve,Errors SE,122,197,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Serve,Aces Per Set SA/S,1.1,4.3,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Receptions,Errors RE,285,72,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Receptions,Errors Per Set RE/S,4.3,1.1,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Defense,Digs DIG,467,647,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Defense,Digs Per Set DIG/S,7.1,9.8,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Blocking,Solo BS,52,28,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Blocking,Assists BA,43,71,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Blocking,Errors BE,41,20,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Blocking,Blocks BLK,73.5,63.5,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2015,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.1,1.0,brooklyn_mens_volleyball_2015_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Attack,Kills K,864,1077,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Attack,Errors ATE,528,494,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Attack,Attempts ATT,2591,2633,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Attack,Percent ATT%,.130,.221,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Attack,Kills Per Set K/S,8.6,10.7,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Set,Assists AST,777,1005,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Set,Assists Per Set AST/S,7.7,10.0,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Set,Ball Handling Errors BHE,55,35,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Serve,Aces SA,172,301,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Serve,Errors SE,245,295,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Serve,Aces Per Set SA/S,1.7,3.0,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Receptions,Errors RE,284,165,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Receptions,Errors Per Set RE/S,2.8,1.6,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Defense,Digs DIG,965,1078,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Defense,Digs Per Set DIG/S,9.6,10.7,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Blocking,Solo BS,61,69,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Blocking,Assists BA,161,175,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Blocking,Errors BE,41,44,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Blocking,Blocks BLK,141.5,156.5,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2016,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.4,1.5,brooklyn_mens_volleyball_2016_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Attack,Kills K,835,842,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Attack,Errors ATE,412,437,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Attack,Attempts ATT,2134,2163,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Attack,Percent ATT%,.198,.187,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Attack,Kills Per Set K/S,9.8,9.9,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Set,Assists AST,787,774,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Set,Assists Per Set AST/S,9.3,9.1,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Set,Ball Handling Errors BHE,37,40,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Serve,Aces SA,163,125,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Serve,Errors SE,229,262,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Serve,Aces Per Set SA/S,1.9,1.5,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Receptions,Errors RE,125,163,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Receptions,Errors Per Set RE/S,1.5,1.9,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Defense,Digs DIG,771,756,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Defense,Digs Per Set DIG/S,9.1,8.9,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Blocking,Solo BS,57,41,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Blocking,Assists BA,152,156,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Blocking,Errors BE,15,32,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Blocking,Blocks BLK,133.0,119.0,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2017,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.6,1.4,brooklyn_mens_volleyball_2017_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Attack,Kills K,719,746,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Attack,Errors ATE,374,455,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Attack,Attempts ATT,1914,2000,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Attack,Percent ATT%,.180,.146,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Attack,Kills Per Set K/S,9.5,9.8,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Set,Assists AST,653,700,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Set,Assists Per Set AST/S,8.6,9.2,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Set,Ball Handling Errors BHE,29,27,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Serve,Aces SA,149,114,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Serve,Errors SE,224,219,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Serve,Aces Per Set SA/S,2.0,1.5,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Receptions,Errors RE,114,149,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Receptions,Errors Per Set RE/S,1.5,2.0,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Defense,Digs DIG,678,688,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Defense,Digs Per Set DIG/S,8.9,9.1,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Blocking,Solo BS,65,43,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Blocking,Assists BA,122,101,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Blocking,Errors BE,7,15,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Blocking,Blocks BLK,126.0,93.5,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2018,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.7,1.2,brooklyn_mens_volleyball_2018_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Attack,Kills K,643,765,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Attack,Errors ATE,467,422,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Attack,Attempts ATT,2127,2111,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Attack,Percent ATT%,.083,.162,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Attack,Kills Per Set K/S,8.2,9.8,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Set,Assists AST,591,709,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Set,Assists Per Set AST/S,7.6,9.1,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Set,Ball Handling Errors BHE,30,30,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Serve,Aces SA,135,147,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Serve,Errors SE,218,257,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Serve,Aces Per Set SA/S,1.7,1.9,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Receptions,Errors RE,147,134,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Receptions,Errors Per Set RE/S,1.9,1.7,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Defense,Digs DIG,839,896,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Defense,Digs Per Set DIG/S,10.8,11.5,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Blocking,Solo BS,44,71,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Blocking,Assists BA,102,178,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Blocking,Errors BE,9,26,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Blocking,Blocks BLK,95.0,160.0,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2019,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.2,2.1,brooklyn_mens_volleyball_2019_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Attack,Kills K,437,561,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Attack,Errors ATE,339,288,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Attack,Attempts ATT,1509,1504,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Attack,Percent ATT%,.065,.182,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Attack,Kills Per Set K/S,7.5,9.7,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Set,Assists AST,387,500,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Set,Assists Per Set AST/S,6.7,8.6,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Set,Ball Handling Errors BHE,24,13,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Serve,Aces SA,109,130,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Serve,Errors SE,209,207,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Serve,Aces Per Set SA/S,1.9,2.2,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Receptions,Errors RE,131,109,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Receptions,Errors Per Set RE/S,2.3,1.9,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Defense,Digs DIG,555,617,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Defense,Digs Per Set DIG/S,9.6,10.6,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Blocking,Solo BS,28,42,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Blocking,Assists BA,67,85,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Blocking,Errors BE,13,17,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Blocking,Blocks BLK,61.5,84.5,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2020,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.1,1.5,brooklyn_mens_volleyball_2020_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Attack,Kills K,630,664,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Attack,Errors ATE,429,340,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Attack,Attempts ATT,1859,1784,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Attack,Percent ATT%,.108,.182,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Attack,Kills Per Set K/S,8.5,9.0,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Set,Assists AST,583,606,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Set,Assists Per Set AST/S,7.9,8.2,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Set,Ball Handling Errors BHE,46,19,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Serve,Aces SA,142,170,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Serve,Errors SE,300,266,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Serve,Aces Per Set SA/S,1.9,2.3,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Receptions,Errors RE,170,142,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Receptions,Errors Per Set RE/S,2.3,1.9,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Defense,Digs DIG,651,673,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Defense,Digs Per Set DIG/S,8.8,9.1,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Blocking,Solo BS,41,65,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Blocking,Assists BA,99,107,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Blocking,Errors BE,13,28,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Blocking,Blocks BLK,90.5,118.5,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2022,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.2,1.6,brooklyn_mens_volleyball_2022_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Attack,Kills K,647,694,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Attack,Errors ATE,520,449,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Attack,Attempts ATT,2102,2093,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Attack,Percent ATT%,.060,.117,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Attack,Kills Per Set K/S,7.7,8.3,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Set,Assists AST,599,636,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Set,Assists Per Set AST/S,7.1,7.6,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Set,Ball Handling Errors BHE,18,15,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Serve,Aces SA,175,191,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Serve,Errors SE,251,304,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Serve,Aces Per Set SA/S,2.1,2.3,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Receptions,Errors RE,190,175,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Receptions,Errors Per Set RE/S,2.3,2.1,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Defense,Digs DIG,846,818,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Defense,Digs Per Set DIG/S,10.1,9.7,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Blocking,Solo BS,60,64,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Blocking,Assists BA,82,90,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Blocking,Errors BE,22,38,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Blocking,Blocks BLK,101.0,109.0,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2023,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.2,1.3,brooklyn_mens_volleyball_2023_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Attack,Kills K,951,997,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Attack,Errors ATE,617,465,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Attack,Attempts ATT,3012,2890,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Attack,Percent ATT%,.111,.184,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Attack,Kills Per Set K/S,9.4,9.9,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Set,Assists AST,853,904,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Set,Assists Per Set AST/S,8.4,9.0,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Set,Ball Handling Errors BHE,15,24,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Serve,Aces SA,200,183,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Serve,Errors SE,293,336,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Serve,Aces Per Set SA/S,2.0,1.8,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Receptions,Errors RE,183,200,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Receptions,Errors Per Set RE/S,1.8,2.0,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Defense,Digs DIG,1218,1196,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Defense,Digs Per Set DIG/S,12.1,11.8,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Blocking,Solo BS,78,105,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Blocking,Assists BA,66,122,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Blocking,Errors BE,35,69,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Blocking,Blocks BLK,111.0,166.0,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2024,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.1,1.6,brooklyn_mens_volleyball_2024_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Attack,Kills K,964,918,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Attack,Errors ATE,495,470,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Attack,Attempts ATT,2529,2497,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Attack,Percent ATT%,.185,.179,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Attack,Kills Per Set K/S,10.0,9.6,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Set,Assists AST,901,831,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Set,Assists Per Set AST/S,9.4,8.7,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Set,Ball Handling Errors BHE,10,10,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Serve,Aces SA,195,189,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Serve,Errors SE,350,364,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Serve,Aces Per Set SA/S,2.0,2.0,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Receptions,Errors RE,189,194,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Receptions,Errors Per Set RE/S,2.0,2.0,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Defense,Digs DIG,964,883,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Defense,Digs Per Set DIG/S,10.0,9.2,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Blocking,Solo BS,50,41,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Blocking,Assists BA,118,221,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Blocking,Errors BE,20,39,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Blocking,Blocks BLK,109.0,151.5,brooklyn_mens_volleyball_2025_team_stats.csv
+Brooklyn College,2025,Men,Unverified,Blocking,Blocks Per Set BLK/S,1.1,1.6,brooklyn_mens_volleyball_2025_team_stats.csv
