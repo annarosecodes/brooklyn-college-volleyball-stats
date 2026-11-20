@@ -1,0 +1,487 @@
+﻿School,Season,Gender,Scope,TeamSide,Statistic,Value,SourceFile
+Brooklyn College,2013,Men,Overall,Brooklyn,Sets Played,87,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Kills Per Set,9.82,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Assists Per Set,9.08,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Service Aces Per Set,1.60,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Reception Errors Per Set,1.05,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Digs Per Set,10.78,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Blocks Per Set,1.00,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.66,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Brooklyn,Points Per Set,12.41,raw_all_tables\men\2013\table_07.csv
+Brooklyn College,2013,Men,Overall,Opponent,Sets Played,87,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Kills Per Set,8.72,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Assists Per Set,7.98,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Service Aces Per Set,1.08,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Reception Errors Per Set,1.59,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Digs Per Set,9.75,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Blocks Per Set,1.48,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Ball Handling Errors Per Set,0.31,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2013,Men,Overall,Opponent,Points Per Set,11.29,raw_all_tables\men\2013\table_09.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Sets Played,109,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Kills Per Set,10.40,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Assists Per Set,9.67,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Service Aces Per Set,2.08,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Reception Errors Per Set,1.21,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Digs Per Set,9.74,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Blocks Per Set,1.24,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.32,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Brooklyn,Points Per Set,13.73,raw_all_tables\men\2014\table_07.csv
+Brooklyn College,2014,Men,Overall,Opponent,Sets Played,109,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Kills Per Set,8.63,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Assists Per Set,7.99,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Service Aces Per Set,1.21,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Reception Errors Per Set,2.08,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Digs Per Set,8.49,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Blocks Per Set,1.83,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Ball Handling Errors Per Set,0.35,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2014,Men,Overall,Opponent,Points Per Set,11.68,raw_all_tables\men\2014\table_09.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Sets Played,66,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Kills Per Set,4.05,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Assists Per Set,3.24,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Service Aces Per Set,1.09,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Reception Errors Per Set,4.32,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Digs Per Set,7.08,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Blocks Per Set,1.11,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.74,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Brooklyn,Points Per Set,6.25,raw_all_tables\men\2015\table_07.csv
+Brooklyn College,2015,Men,Overall,Opponent,Sets Played,66,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Kills Per Set,10.95,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Assists Per Set,9.44,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Service Aces Per Set,4.32,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Reception Errors Per Set,1.09,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Digs Per Set,9.80,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Blocks Per Set,0.96,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Ball Handling Errors Per Set,0.38,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2015,Men,Overall,Opponent,Points Per Set,16.23,raw_all_tables\men\2015\table_09.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Sets Played,101,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Kills Per Set,8.55,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Assists Per Set,7.69,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Service Aces Per Set,1.70,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Reception Errors Per Set,2.81,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Digs Per Set,9.55,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Blocks Per Set,1.40,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.54,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Brooklyn,Points Per Set,11.66,raw_all_tables\men\2016\table_07.csv
+Brooklyn College,2016,Men,Overall,Opponent,Sets Played,101,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Kills Per Set,10.66,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Assists Per Set,9.95,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Service Aces Per Set,2.98,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Reception Errors Per Set,1.63,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Digs Per Set,10.67,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Blocks Per Set,1.55,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Ball Handling Errors Per Set,0.35,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2016,Men,Overall,Opponent,Points Per Set,15.19,raw_all_tables\men\2016\table_09.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Sets Played,85,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Kills Per Set,9.82,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Assists Per Set,9.26,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Service Aces Per Set,1.92,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Reception Errors Per Set,1.47,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Digs Per Set,9.07,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Blocks Per Set,1.56,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.44,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Brooklyn,Points Per Set,13.31,raw_all_tables\men\2017\table_07.csv
+Brooklyn College,2017,Men,Overall,Opponent,Sets Played,85,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Kills Per Set,9.91,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Assists Per Set,9.11,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Service Aces Per Set,1.47,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Reception Errors Per Set,1.92,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Digs Per Set,8.89,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Blocks Per Set,1.40,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Ball Handling Errors Per Set,0.47,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2017,Men,Overall,Opponent,Points Per Set,12.78,raw_all_tables\men\2017\table_09.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Sets Played,76,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Kills Per Set,9.46,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Assists Per Set,8.59,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Service Aces Per Set,1.96,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Reception Errors Per Set,1.50,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Digs Per Set,8.92,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Blocks Per Set,1.66,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.38,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Brooklyn,Points Per Set,13.08,raw_all_tables\men\2018\table_07.csv
+Brooklyn College,2018,Men,Overall,Opponent,Sets Played,76,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Kills Per Set,9.82,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Assists Per Set,9.21,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Service Aces Per Set,1.50,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Reception Errors Per Set,1.96,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Digs Per Set,9.05,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Blocks Per Set,1.23,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Ball Handling Errors Per Set,0.36,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2018,Men,Overall,Opponent,Points Per Set,12.55,raw_all_tables\men\2018\table_09.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Sets Played,78,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Kills Per Set,8.24,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Assists Per Set,7.58,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Service Aces Per Set,1.73,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Reception Errors Per Set,1.88,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Digs Per Set,10.76,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Blocks Per Set,1.22,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.38,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Brooklyn,Points Per Set,11.19,raw_all_tables\men\2019\table_07.csv
+Brooklyn College,2019,Men,Overall,Opponent,Sets Played,78,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Kills Per Set,9.81,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Assists Per Set,9.09,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Service Aces Per Set,1.88,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Reception Errors Per Set,1.72,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Digs Per Set,11.49,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Blocks Per Set,2.05,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Ball Handling Errors Per Set,0.38,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2019,Men,Overall,Opponent,Points Per Set,13.74,raw_all_tables\men\2019\table_09.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Sets Played,58,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Kills Per Set,7.53,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Assists Per Set,6.67,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Service Aces Per Set,1.88,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Reception Errors Per Set,2.26,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Digs Per Set,9.57,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Blocks Per Set,1.06,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.41,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Brooklyn,Points Per Set,10.47,raw_all_tables\men\2020\table_07.csv
+Brooklyn College,2020,Men,Overall,Opponent,Sets Played,58,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Kills Per Set,9.67,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Assists Per Set,8.62,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Service Aces Per Set,2.24,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Reception Errors Per Set,1.88,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Digs Per Set,10.64,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Blocks Per Set,1.46,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Ball Handling Errors Per Set,0.22,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2020,Men,Overall,Opponent,Points Per Set,13.37,raw_all_tables\men\2020\table_09.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Sets Played,74,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Kills Per Set,8.51,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Assists Per Set,7.88,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Service Aces Per Set,1.92,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Reception Errors Per Set,2.30,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Digs Per Set,8.80,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Blocks Per Set,1.22,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.62,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Brooklyn,Points Per Set,11.66,raw_all_tables\men\2022\table_07.csv
+Brooklyn College,2022,Men,Overall,Opponent,Sets Played,74,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Kills Per Set,8.97,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Assists Per Set,8.19,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Service Aces Per Set,2.30,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Reception Errors Per Set,1.92,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Digs Per Set,9.09,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Blocks Per Set,1.60,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Ball Handling Errors Per Set,0.26,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2022,Men,Overall,Opponent,Points Per Set,12.87,raw_all_tables\men\2022\table_09.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Sets Played,84,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Kills Per Set,7.70,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Assists Per Set,7.13,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Service Aces Per Set,2.08,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Reception Errors Per Set,2.26,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Digs Per Set,10.07,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Blocks Per Set,1.20,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.21,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Brooklyn,Points Per Set,10.99,raw_all_tables\men\2023\table_07.csv
+Brooklyn College,2023,Men,Overall,Opponent,Sets Played,84,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Kills Per Set,8.26,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Assists Per Set,7.57,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Service Aces Per Set,2.27,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Reception Errors Per Set,2.08,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Digs Per Set,9.74,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Blocks Per Set,1.30,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Ball Handling Errors Per Set,0.18,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2023,Men,Overall,Opponent,Points Per Set,11.83,raw_all_tables\men\2023\table_09.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Sets Played,101,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Kills Per Set,9.42,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Assists Per Set,8.45,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Service Aces Per Set,1.98,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Reception Errors Per Set,1.81,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Digs Per Set,12.06,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Blocks Per Set,1.10,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.15,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Brooklyn,Points Per Set,12.50,raw_all_tables\men\2024\table_07.csv
+Brooklyn College,2024,Men,Overall,Opponent,Sets Played,101,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Kills Per Set,9.87,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Assists Per Set,8.95,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Service Aces Per Set,1.81,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Reception Errors Per Set,1.98,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Digs Per Set,11.84,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Blocks Per Set,1.64,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Ball Handling Errors Per Set,0.24,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2024,Men,Overall,Opponent,Points Per Set,13.33,raw_all_tables\men\2024\table_09.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Sets Played,96,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Kills Per Set,10.04,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Assists Per Set,9.39,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Service Aces Per Set,2.03,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Reception Errors Per Set,1.97,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Digs Per Set,10.04,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Blocks Per Set,1.14,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.10,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Brooklyn,Points Per Set,13.21,raw_all_tables\men\2025\table_07.csv
+Brooklyn College,2025,Men,Overall,Opponent,Sets Played,96,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Kills Per Set,9.56,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Assists Per Set,8.66,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Service Aces Per Set,1.97,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Reception Errors Per Set,2.02,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Digs Per Set,9.20,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Blocks Per Set,1.58,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Ball Handling Errors Per Set,0.10,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2025,Men,Overall,Opponent,Points Per Set,13.11,raw_all_tables\men\2025\table_09.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Sets Played,83,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Kills Per Set,7.23,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Assists Per Set,6.37,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Service Aces Per Set,2.40,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Reception Errors Per Set,2.77,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Digs Per Set,11.39,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Blocks Per Set,1.02,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.64,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Brooklyn,Points Per Set,10.65,raw_all_tables\women\2012\table_07.csv
+Brooklyn College,2012,Women,Overall,Opponent,Sets Played,83,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Kills Per Set,8.66,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Assists Per Set,7.46,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Service Aces Per Set,2.72,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Reception Errors Per Set,2.41,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Digs Per Set,11.16,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Blocks Per Set,0.86,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Ball Handling Errors Per Set,0.93,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2012,Women,Overall,Opponent,Points Per Set,12.24,raw_all_tables\women\2012\table_09.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Sets Played,100,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Kills Per Set,8.08,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Assists Per Set,7.15,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Service Aces Per Set,2.39,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Reception Errors Per Set,2.82,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Digs Per Set,12.31,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Blocks Per Set,0.90,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.92,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Brooklyn,Points Per Set,11.37,raw_all_tables\women\2013\table_07.csv
+Brooklyn College,2013,Women,Overall,Opponent,Sets Played,100,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Kills Per Set,8.94,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Assists Per Set,8.02,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Service Aces Per Set,2.85,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Reception Errors Per Set,2.47,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Digs Per Set,12.98,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Blocks Per Set,0.78,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Ball Handling Errors Per Set,0.53,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2013,Women,Overall,Opponent,Points Per Set,12.57,raw_all_tables\women\2013\table_09.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Sets Played,107,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Kills Per Set,7.66,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Assists Per Set,6.67,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Service Aces Per Set,2.22,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Reception Errors Per Set,2.89,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Digs Per Set,12.25,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Blocks Per Set,1.07,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.49,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Brooklyn,Points Per Set,10.96,raw_all_tables\women\2014\table_07.csv
+Brooklyn College,2014,Women,Overall,Opponent,Sets Played,107,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Kills Per Set,9.31,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Assists Per Set,8.34,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Service Aces Per Set,2.89,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Reception Errors Per Set,2.22,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Digs Per Set,13.17,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Blocks Per Set,0.97,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Ball Handling Errors Per Set,0.55,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2014,Women,Overall,Opponent,Points Per Set,13.16,raw_all_tables\women\2014\table_09.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Sets Played,91,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Kills Per Set,6.67,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Assists Per Set,5.65,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Service Aces Per Set,1.95,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Reception Errors Per Set,3.08,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Digs Per Set,13.07,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Blocks Per Set,1.08,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.40,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Brooklyn,Points Per Set,9.69,raw_all_tables\women\2015\table_07.csv
+Brooklyn College,2015,Women,Overall,Opponent,Sets Played,91,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Kills Per Set,10.18,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Assists Per Set,9.07,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Service Aces Per Set,3.03,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Reception Errors Per Set,1.95,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Digs Per Set,14.68,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Blocks Per Set,0.74,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Ball Handling Errors Per Set,0.33,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2015,Women,Overall,Opponent,Points Per Set,13.95,raw_all_tables\women\2015\table_09.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Sets Played,101,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Kills Per Set,6.77,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Assists Per Set,5.85,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Service Aces Per Set,2.49,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Reception Errors Per Set,2.99,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Digs Per Set,16.17,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Blocks Per Set,0.99,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Ball Handling Errors Per Set,1.76,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Brooklyn,Points Per Set,10.25,raw_all_tables\women\2016\table_07.csv
+Brooklyn College,2016,Women,Overall,Opponent,Sets Played,101,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Kills Per Set,9.40,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Assists Per Set,8.45,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Service Aces Per Set,2.91,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Reception Errors Per Set,2.50,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Digs Per Set,15.26,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Blocks Per Set,0.74,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Ball Handling Errors Per Set,0.46,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2016,Women,Overall,Opponent,Points Per Set,13.04,raw_all_tables\women\2016\table_09.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Sets Played,102,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Kills Per Set,9.23,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Assists Per Set,8.50,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Service Aces Per Set,3.26,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Reception Errors Per Set,2.19,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Digs Per Set,14.91,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Blocks Per Set,0.57,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.40,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Brooklyn,Points Per Set,13.06,raw_all_tables\women\2017\table_07.csv
+Brooklyn College,2017,Women,Overall,Opponent,Sets Played,102,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Kills Per Set,9.45,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Assists Per Set,8.71,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Service Aces Per Set,2.19,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Reception Errors Per Set,3.26,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Digs Per Set,15.24,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Blocks Per Set,1.02,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Ball Handling Errors Per Set,0.55,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2017,Women,Overall,Opponent,Points Per Set,12.66,raw_all_tables\women\2017\table_09.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Sets Played,95,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Kills Per Set,9.44,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Assists Per Set,8.86,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Service Aces Per Set,2.66,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Reception Errors Per Set,2.39,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Digs Per Set,16.62,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Blocks Per Set,0.58,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.35,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Brooklyn,Points Per Set,12.68,raw_all_tables\women\2018\table_07.csv
+Brooklyn College,2018,Women,Overall,Opponent,Sets Played,95,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Kills Per Set,9.75,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Assists Per Set,9.28,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Service Aces Per Set,2.41,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Reception Errors Per Set,2.66,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Digs Per Set,17.01,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Blocks Per Set,1.48,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Ball Handling Errors Per Set,0.49,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2018,Women,Overall,Opponent,Points Per Set,13.64,raw_all_tables\women\2018\table_09.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Sets Played,114,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Kills Per Set,9.33,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Assists Per Set,8.68,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Service Aces Per Set,2.77,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Reception Errors Per Set,2.14,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Digs Per Set,16.77,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Blocks Per Set,0.68,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.22,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Brooklyn,Points Per Set,12.79,raw_all_tables\women\2019\table_07.csv
+Brooklyn College,2019,Women,Overall,Opponent,Sets Played,114,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Kills Per Set,9.40,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Assists Per Set,8.80,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Service Aces Per Set,2.14,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Reception Errors Per Set,2.77,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Digs Per Set,16.81,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Blocks Per Set,1.16,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Ball Handling Errors Per Set,0.41,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2019,Women,Overall,Opponent,Points Per Set,12.70,raw_all_tables\women\2019\table_09.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Sets Played,102,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Kills Per Set,10.10,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Assists Per Set,9.18,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Service Aces Per Set,2.65,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Reception Errors Per Set,2.60,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Digs Per Set,15.78,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Blocks Per Set,0.71,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.31,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Brooklyn,Points Per Set,13.45,raw_all_tables\women\2021\table_07.csv
+Brooklyn College,2021,Women,Overall,Opponent,Sets Played,102,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Kills Per Set,9.28,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Assists Per Set,8.43,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Service Aces Per Set,2.60,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Reception Errors Per Set,2.65,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Digs Per Set,15.16,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Blocks Per Set,1.47,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Ball Handling Errors Per Set,0.41,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2021,Women,Overall,Opponent,Points Per Set,13.35,raw_all_tables\women\2021\table_09.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Sets Played,103,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Kills Per Set,9.62,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Assists Per Set,8.85,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Service Aces Per Set,3.08,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Reception Errors Per Set,2.48,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Digs Per Set,14.27,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Blocks Per Set,0.95,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.83,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Brooklyn,Points Per Set,13.65,raw_all_tables\women\2022\table_07.csv
+Brooklyn College,2022,Women,Overall,Opponent,Sets Played,103,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Kills Per Set,9.46,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Assists Per Set,8.84,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Service Aces Per Set,2.48,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Reception Errors Per Set,3.09,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Digs Per Set,13.63,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Blocks Per Set,1.06,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Ball Handling Errors Per Set,0.32,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2022,Women,Overall,Opponent,Points Per Set,12.99,raw_all_tables\women\2022\table_09.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Sets Played,82,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Kills Per Set,7.84,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Assists Per Set,7.18,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Service Aces Per Set,3.30,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Reception Errors Per Set,2.72,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Digs Per Set,14.51,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Blocks Per Set,1.24,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.39,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Brooklyn,Points Per Set,12.39,raw_all_tables\women\2023\table_07.csv
+Brooklyn College,2023,Women,Overall,Opponent,Sets Played,82,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Kills Per Set,8.85,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Assists Per Set,8.27,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Service Aces Per Set,2.72,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Reception Errors Per Set,3.30,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Digs Per Set,15.44,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Blocks Per Set,0.99,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Ball Handling Errors Per Set,0.26,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2023,Women,Overall,Opponent,Points Per Set,12.56,raw_all_tables\women\2023\table_09.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Sets Played,92,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Kills Per Set,8.41,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Assists Per Set,7.76,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Service Aces Per Set,3.21,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Reception Errors Per Set,2.54,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Digs Per Set,16.95,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Blocks Per Set,1.49,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.05,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Brooklyn,Points Per Set,13.11,raw_all_tables\women\2024\table_07.csv
+Brooklyn College,2024,Women,Overall,Opponent,Sets Played,92,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Kills Per Set,9.71,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Assists Per Set,9.02,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Service Aces Per Set,2.54,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Reception Errors Per Set,3.21,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Digs Per Set,17.09,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Blocks Per Set,0.98,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Ball Handling Errors Per Set,0.10,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2024,Women,Overall,Opponent,Points Per Set,13.23,raw_all_tables\women\2024\table_09.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Sets Played,109,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Kills Per Set,8.10,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Assists Per Set,7.38,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Service Aces Per Set,2.93,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Reception Errors Per Set,2.70,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Digs Per Set,15.78,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Blocks Per Set,1.77,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.03,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Brooklyn,Points Per Set,12.79,raw_all_tables\women\2025\table_07.csv
+Brooklyn College,2025,Women,Overall,Opponent,Sets Played,109,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Kills Per Set,10.15,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Assists Per Set,9.41,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Service Aces Per Set,2.70,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Reception Errors Per Set,2.93,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Digs Per Set,16.83,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Blocks Per Set,1.07,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Ball Handling Errors Per Set,0.01,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2025,Women,Overall,Opponent,Points Per Set,13.92,raw_all_tables\women\2025\table_09.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Sets Played,75,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Kills Per Set,10.08,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Assists Per Set,9.16,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Service Aces Per Set,3.00,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Reception Errors Per Set,1.59,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Digs Per Set,9.89,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Blocks Per Set,1.12,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Ball Handling Errors Per Set,0.04,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Brooklyn,Points Per Set,14.20,raw_all_tables\men\2026\table_07.csv
+Brooklyn College,2026,Men,Overall,Opponents,Sets Played,75,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Kills Per Set,7.89,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Assists Per Set,7.11,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Service Aces Per Set,1.60,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Reception Errors Per Set,3.00,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Digs Per Set,9.41,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Blocks Per Set,1.61,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Ball Handling Errors Per Set,0.04,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Men,Overall,Opponents,Points Per Set,11.10,raw_all_tables\men\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Sets Played,88,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Kills Per Set,9.13,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Assists Per Set,8.35,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Service Aces Per Set,2.64,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Reception Errors Per Set,2.59,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Digs Per Set,15.09,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Blocks Per Set,1.15,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Ball Handling Errors Per Set,0.01,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Brooklyn,Points Per Set,12.91,raw_all_tables\women\2026\table_07.csv
+Brooklyn College,2026,Women,Overall,Opponents,Sets Played,88,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Kills Per Set,10.33,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Assists Per Set,9.52,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Service Aces Per Set,2.59,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Reception Errors Per Set,2.64,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Digs Per Set,16.85,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Blocks Per Set,1.14,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Ball Handling Errors Per Set,0.02,raw_all_tables\women\2026\table_09.csv
+Brooklyn College,2026,Women,Overall,Opponents,Points Per Set,14.06,raw_all_tables\women\2026\table_09.csv

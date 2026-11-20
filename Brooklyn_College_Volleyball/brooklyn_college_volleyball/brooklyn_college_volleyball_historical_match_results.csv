@@ -1,0 +1,159 @@
+﻿School,Season,Gender,Scope,Team,Date,Date_ISO,Opponent,Conference,Conference_Standardized,Result,Match Score,Set Scores,Attendance,SourceFile
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Jan 29,2007-01-29,at Yeshiva University,False,No,W,3-0,"30-22,30-14,30-27",50,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 06,2007-02-06,NYCTECH,True,Yes,W,3-1,"30-26,20-30,30-19,30-17",70,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 10,2007-02-10,LEHMAN COLLEGE,True,Yes,W,3-0,"30-28,30-21,30-25",-,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 13,2007-02-13,at CCNYM,True,Yes,W,3-0,"30-19,30-23,30-20",-,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 13,2007-02-13,at Medgar Evers College,True,Yes,W,3-2,"30-19,30-24,25-30,24-30,15-7",40,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,2/15/07,2007-02-15,at Baruch Bearcats,True,Yes,L,0-3,"28-30,20-30,17-30",85,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 17,2007-02-17,vs Lehman College,False,No,W,3-0,"30-24,30-20,30-14",-,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 17,2007-02-17,vs Newbury College,False,No,L,1-3,"23-30,15-30,30-22,21-30",50,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 22,2007-02-22,HUNTER COLLEGE,True,Yes,L,0-3,"19-30,30-32,16-30",50,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 19,2007-02-19,at Purchase,False,No,W,3-1,"28-30,31-29,30-15,30-23",43,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 24,2007-02-24,vs York College,True,Yes,W,3-0,"30-9,30-16,30-14",20,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 24,2007-02-24,vs NYCTECH,True,Yes,W,3-0,"30-20,30-25,30-22",40,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Jan 07,2007-01-07,vs Elms College,False,No,L,1-3,"30-23,24-30,27-30,21-30",97,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Feb 27,2007-02-27,at CCNYM,True,Yes,W,3-1,"30-28,30-23,28-30,30-26",35,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 1,2007-03-01,at Lehman College,True,Yes,W,3-1,"30-21,31-33,30-19,30-25",50,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 06,2007-03-06,MEDGAR EVERS COLLEGE,True,Yes,W,3-0,"30-16,30-16,30-28",60,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,March 8,2007-03-08,at Polytechnic Univers.,False,No,W,3-1,"30-19,30-21,27-30,30-21",50,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 10,2007-03-10,vs Hunter College,True,Yes,L,0-3,"31-33,22-30,28-30",-,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 10,2007-03-10,vs Baruch Bearcats,True,Yes,L,1-3,"22-30,30-26,24-30,25-30",55,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 13,2007-03-13,at York College,True,Yes,W,3-0,"30-15,30-12,30-22",50,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 20,2007-03-20,MEDGAR EVERS COLLEGE,False,No,W,3-2,"27-30,30-22,29-31,30-27,15-13",100,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,3/22/07,2007-03-22,at Baruch Bearcats,False,No,L,1-3,"25-30,30-26,25-30,28-30",88,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 24,2007-03-24,"at Bard College, Men VB",True,Yes,L,0-3,"19-30,19-30,29-31",-,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2007,Men,Overall,Men's Volleyball,Mar 30,2007-03-30,vs Stevens Institute,False,No,L,0-3,"22-30,21-30,21-30",75,brooklyn_mens_volleyball_2007_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,01/26/2008,2008-01-26,at New Jersey City U.,False,No,L,0-3,"26-30,17-30,26-30",22,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,01/26/2008,2008-01-26,vs Villa Julie College,False,No,L,0-3,"17-30,21-30,19-30",10,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,01/31/2008,2008-01-31,NEW JERSEY CITY U.,False,No,L,1-3,"23-30,30-25,16-30,0-30",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,02/05/2008,2008-02-05,at City Tech,True,Yes,L,0-3,"20-30,24-30,20-30",43,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 07,2008-02-07,SUNY PURCHASE,False,No,W,3-2,"30-22,25-30,30-26,25-30,15-12",100,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 9,2008-02-09,vs Lehman College,True,Yes,L,0-3,"25-30,23-30,29-31",100,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 9,2008-02-09,vs City College of NY,True,Yes,L,0-3,"19-30,22-30,28-30",100,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 14,2008-02-14,BARUCH,True,Yes,L,0-3,"5-30,28-30,29-31",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 19,2008-02-19,at #9 Ramapo College of N,False,No,L,0-3,"13-30,16-30,20-30",60,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 21,2008-02-21,at Hunter College,True,Yes,L,0-3,"15-30,14-30,18-30",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,02/23/2008,2008-02-23,CITY TECH,True,Yes,L,0-3,"20-30,23-30,23-30",16,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 23,2008-02-23,vs York College (N.Y.),True,Yes,W,3-2,"30-26,30-23,27-30,25-30,15-11",-,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 26,2008-02-26,CITY COLLEGE OF NY,True,Yes,L,2-3,"17-30,20-30,30-28,30-20,10-15",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Feb 28,2008-02-28,LEHMAN COLLEGE,True,Yes,L,1-3,"26-30,24-30,30-27,18-30",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 04,2008-03-04,at MEC,True,Yes,W,3-0,"30-19,30-19,30-20",-,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 06,2008-03-06,POLM08,False,No,W,3-1,"30-27,28-30,30-26,30-26",56,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 08,2008-03-08,vs Hunter College,True,Yes,L,0-3,"8-30,12-30,15-30",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,3/8/08,2008-03-08,vs BARUCH,True,Yes,L,0-3,"16-30,17-30,15-30",65,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 11,2008-03-11,YORK COLLEGE (N.Y.),True,Yes,W,3-0,"30-19,30-16,30-18",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 13,2008-03-13,YESHIVA UNIVERSITY,False,No,W,3-0,"30-20,30-11,30-19",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 14,2008-03-14,BARD COLLEGE,False,No,L,1-3,"22-30,14-30,30-28,21-30",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 17,2008-03-17,MEC,True,Yes,W,3-0,"30-22,30-20,30-15",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2008,Men,Overall,Men's Volleyball,Mar 25,2008-03-25,at City College of NY,False,No,L,1-3,"18-30,27-30,30-25,21-30",50,brooklyn_mens_volleyball_2008_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,01/29/2009,2009-01-29,at New Jersey City U.,False,No,L,0-3,"16-30,14-30,15-30",30,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 02,2009-02-02,at Purchase Panthers,False,No,L,0-3,"16-30,25-30,20-30",75,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 03,2009-02-03,NYCCTM,True,Yes,L,1-3,"23-30,19-30,30-22,27-30",47,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 09,2009-02-09,vs CCNY,True,Yes,L,1-3,28-30,-,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 07,2009-02-07,vs Lehman Lightning,True,Yes,W,3-0,"30-28,30-28,30-25",75,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 10,2009-02-10,at Medgar Evers Men,True,Yes,W,3-0,"30-10,30-19,30-16",30,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 12,2009-02-12,at Baruch,True,Yes,L,0-3,"20-30,12-30,14-30",27,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 14,2009-02-14,at Bard College,False,No,L,1-3,"30-21,20-30,23-30,27-30",50,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,02/14/09,2009-02-14,vs #12 Phila. Biblical Un,False,No,L,0-3,"18-30,19-30,17-30",30,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 17,2009-02-17,NEW JERSEY CITY U.,False,No,L,1-3,"30-26,24-30,18-30,22-30",35,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 19,2009-02-19,HUNTER,True,Yes,L,0-3,"15-30,15-30,23-30",46,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 21,2009-02-21,vs NYCCTM,True,Yes,L,0-3,"11-30,15-30,10-30",10,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 21,2009-02-21,vs YORK,True,Yes,L,0-3,"13-30,24-30,11-30",55,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Feb 26,2009-02-26,at Lehman Lightning,True,Yes,L,1-3,"24-30,28-30,30-24,19-30",60,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 03,2009-03-03,MEDGAR EVERS MEN,True,Yes,W,3-0,"30-13,30-23,30-13",30,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 05,2009-03-05,at Polytechnic Inst NYU,False,No,W,3-0,30-17,-,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 07,2009-03-07,BARUCH,True,Yes,L,0-3,"17-30,15-30,28-30",-,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 07,2009-03-07,vs HUNTER,True,Yes,L,0-3,"20-30,20-30,10-30",-,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 10,2009-03-10,at YORK,True,Yes,W,3-2,"26-30,24-30,30-28,30-26,18-16",65,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 12,2009-03-12,SJCB,False,No,W,3-0,"30-19,30-12,30-22",49,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 17,2009-03-17,at CCNY,True,Yes,L,2-3,"30-28,30-25,26-30,26-30,14-16",50,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2009,Men,Overall,Men's Volleyball,Mar 24,2009-03-24,at NYCCTM,True,Yes,L,1-3,"22-30,30-28,23-30,24-30",-,brooklyn_mens_volleyball_2009_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,01/28/2010,2010-01-28,at New Jersey City U.,No,No,L,1-3,"13-30,13-30,30-25,10-30",107,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 02 2010,2010-02-02,at City Tech,Yes,Yes,L,0-3,"21-30,28-30,25-30",20,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 06 2010,2010-02-06,vs Lehman College,Yes,Yes,L,0-3,"15-30,28-30,23-30",-,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb. 6 2010,2010-02-06,vs CCNY,Yes,Yes,L,2-3,"31-29,30-27,24-30,16-30,3-15",30,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 09 2010,2010-02-09,at Medgar Evers College,Yes,Yes,W,3-1,"26-30,30-19,30-20,30-21",50,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 11 2010,2010-02-11,BARUCH,Yes,Yes,L,0-3,"11-30,13-30,18-30",78,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 16 2010,2010-02-16,at NYUPOLYM,No,No,L,0-3,"18-30,22-30,28-30",67,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 18 2010,2010-02-18,at Hunter College,Yes,Yes,L,0-3,"11-30,9-30,22-30",50,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 20 2010,2010-02-20,vs City Tech,Yes,Yes,L,0-3,"27-30,32-34,20-30",45,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Feb 20 2010,2010-02-20,vs York (NY),Yes,Yes,L,0-3,"16-30,22-30,19-30",30,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 02 2010,2010-03-02,MEDGAR EVERS COLLEGE,Yes,Yes,W,3-0,"30-24,30-26,30-16",40,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 03 2010,2010-03-03,NYUPOLYM,No,No,L,0-3,"25-30,16-30,26-30",55,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 06 2010,2010-03-06,vs Hunter College,Yes,Yes,L,0-3,"18-30,10-30,22-30",-,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 06 2010,2010-03-06,vs BARUCH,Yes,Yes,L,0-3,"10-30,13-30,11-30",33,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 08 2010,2010-03-08,LEHMAN COLLEGE,Yes,Yes,L,0-3,"23-30,15-30,23-30",45,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 09 2010,2010-03-09,YORK (NY),Yes,Yes,L,0-3,"25-30,26-30,28-30",40,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 11 2010,2010-03-11,at St. Joseph's - Bklyn,No,No,W,3-0,"30-10,30-14,30-27",25,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 15 2010,2010-03-15,NEW JERSEY CITY U.,No,No,L,0-3,"15-30,19-30,22-30",79,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 16 2010,2010-03-16,CCNY,Yes,Yes,L,0-3,"29-31,29-31,24-30",84,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2010,Men,Overall,Men's Volleyball,Mar 18 2010,2010-03-18,at PURCHASE PANTHERS,No,No,L,2-3,"22-30,30-25,25-30,31-29,14-16",49,brooklyn_mens_volleyball_2010_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 01, 2011",2011-02-01,NYCCT,Yes,Yes,W,3-0,"25-14,25-15,25-21",67,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,02/03/2011,2011-02-03,at New Jersey City U.,No,No,L,0-3,"8-25,20-25,21-25",27,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 05, 2011",2011-02-05,at Baruch,Yes,Yes,L,0-3,"11-25,17-25,12-25",37,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 05, 2011",2011-02-05,vs LEHMAN,Yes,Yes,W,3-1,"27-25,27-29,27-25,25-20",,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 10, 2011",2011-02-10,at YORK,Yes,Yes,L,0-3,"17-25,11-25,33-35",50,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 12, 2011",2011-02-12,at Bard College,No,No,L,0-3,"12-25,16-25,18-25",50,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 17, 2011",2011-02-17,HUNTER-M,Yes,Yes,L,0-3,"22-25,21-25,17-25",88,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 19, 2011",2011-02-19,vs CCNY,Yes,Yes,L,0-3,"25-27,18-25,25-27",,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 19, 2011",2011-02-19,vs NYCCT,Yes,Yes,W,3-1,"25-19,21-25,25-19,25-21",,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 21, 2011",2011-02-21,at NYUPOLYM,No,No,L,1-3,"17-25,10-25,25-22,23-25",32,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 22, 2011",2011-02-22,at Medgar Evers,Yes,Yes,W,3-0,"25-14,25-22,25-22",20,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Feb 24, 2011",2011-02-24,at LEHMAN,Yes,Yes,L,0-3,"14-25,17-25,20-25",210,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 01, 2011",2011-03-01,MEDGAR EVERS,Yes,Yes,W,3-1,"25-21,25-18,27-29,26-24",65,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 03, 2011",2011-03-03,#7 BARUCH,Yes,Yes,L,0-3,"15-25,17-25,19-25",45,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 05, 2011",2011-03-05,vs YORK,Yes,Yes,L,2-3,"25-22,17-25,25-16,24-26,14-16",,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 05, 2011",2011-03-05,vs HUNTER-M,Yes,Yes,L,0-3,"11-25,12-25,13-25",,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 07, 2011",2011-03-07,NEW JERSEY CITY U.,No,No,L,0-3,"15-25,24-26,13-25",36,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 08, 2011",2011-03-08,at CCNY,Yes,Yes,L,0-3,"21-25,21-25,15-25",50,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 10, 2011",2011-03-10,SJCBK,No,No,W,3-0,"25-15,25-13,25-15",,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 12, 2011",2011-03-12,NYUPOLYM,No,No,W,3-0,"25-17,25-15,25-22",30,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 19, 2011",2011-03-19,PUR-MVB,No,No,W,3-0,"25-22,25-18,25-16",58,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2011,Men,Overall,Men's Volleyball,"Mar 22, 2011",2011-03-22,at LEHMAN,No,No,L,0-3,"20-25,19-25,20-25",183,brooklyn_mens_volleyball_2011_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Jan 31, 2012",2012-01-31,at PURCHASE PANTHERS,No,No,L,2-3,"18-25,25-23,25-21,24-26,12-15",37,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 04, 2012",2012-02-04,vs Lehman,Yes,Yes,L,0-3,"14-25,15-25,22-25",12,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 04, 2012",2012-02-04,vs #12 Baruch College,Yes,Yes,L,0-3,"16-25,11-25,22-25",,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 09, 2012",2012-02-09,YORK COLLEGE (NY),Yes,Yes,L,0-3,"10-25,20-25,23-25",235,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 11, 2012",2012-02-11,vs Albertus Magnus,No,No,L,0-3,"22-25,21-25,20-25",27,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 11, 2012",2012-02-11,at St. Joseph's - Bklyn,No,No,W,3-0,"25-16,25-10,25-11",26,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 16, 2012",2012-02-16,at Hunter College,Yes,Yes,L,0-3,"6-25,16-25,17-25",32,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 19, 2012",2012-02-19,vs YESIHVAM,No,No,W,3-1,"21-25,25-17,25-17,25-18",30,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 19, 2012",2012-02-19,at Albertus Magnus,No,No,L,0-3,"23-25,25-27,10-25",52,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 20, 2012",2012-02-20,at NYU-Poly MVB,No,No,L,0-3,"21-25,20-25,23-25",33,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 24, 2012",2012-02-24,ST. JOSEPH'S - BKLYN,No,No,W,3-0,"25-7,25-20,25-12",45,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Feb 28, 2012",2012-02-28,at Medgar Evers,Yes,Yes,W,3-0,"25-17,25-19,27-25",50,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 03, 2012",2012-03-03,vs Hunter College,Yes,Yes,L,0-3,"11-25,11-25,15-25",,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 03, 2012",2012-03-03,vs York College (NY),Yes,Yes,L,1-3,"19-25,19-25,26-24,22-25",50,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 06, 2012",2012-03-06,JOHN JAY COLLEGE,Yes,Yes,W,3-0,"25-10,25-20,25-14",56,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 10, 2012",2012-03-10,SARAH LAWRENCE,No,No,W,3-0,"25-10,25-9,25-17",47,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 13, 2012",2012-03-13,LEHMAN,Yes,Yes,L,0-3,"19-25,21-25,13-25",58,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 14, 2012",2012-03-14,at #15 Baruch College,Yes,Yes,L,0-3,"11-25,10-25,13-25",31,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 22, 2012",2012-03-22,MEDGAR EVERS,Yes,Yes,W,3-0,"25-19,25-14,25-13",89,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Mar 27, 2012",2012-03-27,CITY COLLEGE OF NY,Yes,Yes,W,3-1,"17-25,25-10,25-16,25-23",98,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Apr 02, 2012",2012-04-02,at City College of NY,Yes,Yes,L,1-3,"20-25,20-25,25-18,30-32",50,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Apr 04, 2012",2012-04-04,at John Jay College,Yes,Yes,W,3-0,"25-16,25-14,25-22",62,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Apr 10, 2012",2012-04-10,at Lehman,No,No,W,3-0,"25-23,29-27,25-20",37,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2012,Men,Overall,Men's Volleyball,"Apr 12, 2012",2012-04-12,at #11 Hunter College,No,No,L,0-3,"18-25,18-25,14-25",256,brooklyn_mens_volleyball_2012_match_stats.csv
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 14,2006-09-14,POLYTECHNIC UNIV.,False,No,W,3-2,"22-30,22-30,30-17,30-25,15-9",79,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 12,2006-09-12,at St. Joes (Bkln),False,No,L,0-3,"13-30,15-30,22-30",200,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 16,2006-09-16,vs NYCTECH,True,Yes,W,3-0,"30-24,30-10,30-23",44,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 16,2006-09-16,LEHMAN,True,Yes,L,1-3,"22-30,30-27,22-30,19-30",50,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 19,2006-09-19,at City College of NY,True,Yes,L,0-3,"21-30,12-30,16-30",-,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 25,2006-09-25,at Polytechnic Univ.,False,No,L,2-3,"12-30,26-30,30-28,30-26,6-15",50,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 26,2006-09-26,at Medgar Evers College,True,Yes,W,3-0,"30-10,30-13,30-12",25,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 28,2006-09-28,at New Rochelle,False,No,W,3-0,"30-20,30-25,30-20",44,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Sep 30,2006-09-30,at Maritime College,False,No,W,3-0,"30-22,30-17,32-29",50,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 03,2006-10-03,at Staten Island,True,Yes,W,3-1,"30-28,30-23,26-30,30-16",50,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 07,2006-10-07,at Purchase,False,No,W,3-0,"30-13,30-14,30-28",-,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 9,2006-10-09,vs BARUCH,True,Yes,L,1-3,"13-30,30-26,13-30,15-30",59,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 7,2006-10-07,vs Villa Julie College,False,No,L,0-3,"16-30,12-30,20-30",100,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 09,2006-10-09,at Hunter College,True,Yes,L,0-3,"10-30,12-30,12-30",-,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 11,2006-10-11,at Lady Cyclones,False,No,W,3-0,"30-28,30-22,30-25",50,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct. 17,2006-10-17,YORK COLLEGE,True,Yes,W,3-0,"30-16,30-21,30-20",200,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 18,2006-10-18,at Sarah Lawrence,False,No,L,0-3,"24-30,16-30,17-30",66,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 20,2006-10-20,vs Merchant Marine,False,No,L,0-3,"14-30,27-30,10-30",55,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 21,2006-10-21,vs Mt. Saint Vincent,False,No,L,0-3,"18-30,26-30,28-30",65,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 21,2006-10-21,vs Hunter College,False,No,L,0-3,"10-30,10-30,25-30",-,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 20,2006-10-20,at Kean University,False,No,L,1-3,"22-30,22-30,30-23,26-30",76,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,Oct 24,2006-10-24,JOHN JAY COLLEGE,True,Yes,W,3-0,"30-23,30-19,33-31",100,raw_historical_women\2006\TEAMCUME.html
+Brooklyn College,2006,Women,Overall,Women's Volleyball,10/31/06,2006-10-31,at BARUCH,False,No,L,2-3,"30-17,23-30,20-30,30-27,10-15",125,raw_historical_women\2006\TEAMCUME.html

@@ -1,0 +1,288 @@
+﻿Dataset,Season,Gender,Records,Status
+team_statistics.csv,2006,Women,25,Present
+team_statistics.csv,2007,Women,26,Present
+team_statistics.csv,2008,Women,26,Present
+team_statistics.csv,2009,Women,26,Present
+team_statistics.csv,2010,Women,25,Present
+team_statistics.csv,2011,Women,25,Present
+team_statistics.csv,2012,Women,20,Present
+team_statistics.csv,2013,Women,20,Present
+team_statistics.csv,2014,Women,20,Present
+team_statistics.csv,2015,Women,20,Present
+team_statistics.csv,2016,Women,20,Present
+team_statistics.csv,2017,Women,20,Present
+team_statistics.csv,2018,Women,20,Present
+team_statistics.csv,2019,Women,20,Present
+team_statistics.csv,2020,Women,0,Excluded - No Season
+team_statistics.csv,2021,Women,20,Present
+team_statistics.csv,2022,Women,20,Present
+team_statistics.csv,2023,Women,20,Present
+team_statistics.csv,2024,Women,20,Present
+team_statistics.csv,2025,Women,20,Present
+team_statistics.csv,2026,Women,20,Present
+team_statistics.csv,2007,Men,26,Present
+team_statistics.csv,2008,Men,26,Present
+team_statistics.csv,2009,Men,26,Present
+team_statistics.csv,2010,Men,29,Present
+team_statistics.csv,2011,Men,20,Present
+team_statistics.csv,2012,Men,20,Present
+team_statistics.csv,2013,Men,20,Present
+team_statistics.csv,2014,Men,20,Present
+team_statistics.csv,2015,Men,20,Present
+team_statistics.csv,2016,Men,20,Present
+team_statistics.csv,2017,Men,20,Present
+team_statistics.csv,2018,Men,20,Present
+team_statistics.csv,2019,Men,20,Present
+team_statistics.csv,2020,Men,20,Present
+team_statistics.csv,2021,Men,0,Excluded - No Season
+team_statistics.csv,2022,Men,20,Present
+team_statistics.csv,2023,Men,20,Present
+team_statistics.csv,2024,Men,20,Present
+team_statistics.csv,2025,Men,20,Present
+team_statistics.csv,2026,Men,20,Present
+individual_statistics.csv,2006,Women,12,Present
+individual_statistics.csv,2007,Women,11,Present
+individual_statistics.csv,2008,Women,12,Present
+individual_statistics.csv,2009,Women,15,Present
+individual_statistics.csv,2010,Women,12,Present
+individual_statistics.csv,2011,Women,15,Present
+individual_statistics.csv,2012,Women,25,Present
+individual_statistics.csv,2013,Women,32,Present
+individual_statistics.csv,2014,Women,24,Present
+individual_statistics.csv,2015,Women,22,Present
+individual_statistics.csv,2016,Women,23,Present
+individual_statistics.csv,2017,Women,30,Present
+individual_statistics.csv,2018,Women,30,Present
+individual_statistics.csv,2019,Women,34,Present
+individual_statistics.csv,2020,Women,0,Excluded - No Season
+individual_statistics.csv,2021,Women,28,Present
+individual_statistics.csv,2022,Women,30,Present
+individual_statistics.csv,2023,Women,35,Present
+individual_statistics.csv,2024,Women,32,Present
+individual_statistics.csv,2025,Women,38,Present
+individual_statistics.csv,2026,Women,29,Present
+individual_statistics.csv,2007,Men,12,Present
+individual_statistics.csv,2008,Men,11,Present
+individual_statistics.csv,2009,Men,12,Present
+individual_statistics.csv,2010,Men,15,Present
+individual_statistics.csv,2011,Men,15,Present
+individual_statistics.csv,2012,Men,15,Present
+individual_statistics.csv,2013,Men,27,Present
+individual_statistics.csv,2014,Men,26,Present
+individual_statistics.csv,2015,Men,22,Present
+individual_statistics.csv,2016,Men,34,Present
+individual_statistics.csv,2017,Men,30,Present
+individual_statistics.csv,2018,Men,31,Present
+individual_statistics.csv,2019,Men,20,Present
+individual_statistics.csv,2020,Men,25,Present
+individual_statistics.csv,2021,Men,0,Excluded - No Season
+individual_statistics.csv,2022,Men,23,Present
+individual_statistics.csv,2023,Men,32,Present
+individual_statistics.csv,2024,Men,35,Present
+individual_statistics.csv,2025,Men,29,Present
+individual_statistics.csv,2026,Men,36,Present
+category_leaders.csv,2006,Women,81,Present
+category_leaders.csv,2007,Women,92,Present
+category_leaders.csv,2008,Women,97,Present
+category_leaders.csv,2009,Women,122,Present
+category_leaders.csv,2010,Women,105,Present
+category_leaders.csv,2011,Women,129,Present
+category_leaders.csv,2012,Women,25,Present
+category_leaders.csv,2013,Women,136,Present
+category_leaders.csv,2014,Women,25,Present
+category_leaders.csv,2015,Women,25,Present
+category_leaders.csv,2016,Women,25,Present
+category_leaders.csv,2017,Women,25,Present
+category_leaders.csv,2018,Women,25,Present
+category_leaders.csv,2019,Women,25,Present
+category_leaders.csv,2020,Women,0,Excluded - No Season
+category_leaders.csv,2021,Women,25,Present
+category_leaders.csv,2022,Women,25,Present
+category_leaders.csv,2023,Women,25,Present
+category_leaders.csv,2024,Women,25,Present
+category_leaders.csv,2025,Women,25,Present
+category_leaders.csv,2026,Women,25,Present
+category_leaders.csv,2007,Men,88,Present
+category_leaders.csv,2008,Men,87,Present
+category_leaders.csv,2009,Men,101,Present
+category_leaders.csv,2010,Men,115,Present
+category_leaders.csv,2011,Men,119,Present
+category_leaders.csv,2012,Men,113,Present
+category_leaders.csv,2013,Men,102,Present
+category_leaders.csv,2014,Men,93,Present
+category_leaders.csv,2015,Men,25,Present
+category_leaders.csv,2016,Men,25,Present
+category_leaders.csv,2017,Men,25,Present
+category_leaders.csv,2018,Men,25,Present
+category_leaders.csv,2019,Men,25,Present
+category_leaders.csv,2020,Men,25,Present
+category_leaders.csv,2021,Men,0,Excluded - No Season
+category_leaders.csv,2022,Men,25,Present
+category_leaders.csv,2023,Men,25,Present
+category_leaders.csv,2024,Men,25,Present
+category_leaders.csv,2025,Men,25,Present
+category_leaders.csv,2026,Men,25,Present
+match_statistics.csv,2006,Women,0,Not Available in This Dataset
+match_statistics.csv,2007,Women,0,Not Available in This Dataset
+match_statistics.csv,2008,Women,0,Not Available in This Dataset
+match_statistics.csv,2009,Women,0,Not Available in This Dataset
+match_statistics.csv,2010,Women,0,Not Available in This Dataset
+match_statistics.csv,2011,Women,0,Not Available in This Dataset
+match_statistics.csv,2012,Women,46,Present
+match_statistics.csv,2013,Women,58,Present
+match_statistics.csv,2014,Women,66,Present
+match_statistics.csv,2015,Women,54,Present
+match_statistics.csv,2016,Women,62,Present
+match_statistics.csv,2017,Women,62,Present
+match_statistics.csv,2018,Women,58,Present
+match_statistics.csv,2019,Women,62,Present
+match_statistics.csv,2020,Women,0,Excluded - No Season
+match_statistics.csv,2021,Women,58,Present
+match_statistics.csv,2022,Women,62,Present
+match_statistics.csv,2023,Women,50,Present
+match_statistics.csv,2024,Women,56,Present
+match_statistics.csv,2025,Women,60,Present
+match_statistics.csv,2026,Women,50,Present
+match_statistics.csv,2007,Men,0,Not Available in This Dataset
+match_statistics.csv,2008,Men,0,Not Available in This Dataset
+match_statistics.csv,2009,Men,0,Not Available in This Dataset
+match_statistics.csv,2010,Men,0,Not Available in This Dataset
+match_statistics.csv,2011,Men,0,Not Available in This Dataset
+match_statistics.csv,2012,Men,0,Not Available in This Dataset
+match_statistics.csv,2013,Men,50,Present
+match_statistics.csv,2014,Men,62,Present
+match_statistics.csv,2015,Men,42,Present
+match_statistics.csv,2016,Men,58,Present
+match_statistics.csv,2017,Men,52,Present
+match_statistics.csv,2018,Men,46,Present
+match_statistics.csv,2019,Men,46,Present
+match_statistics.csv,2020,Men,34,Present
+match_statistics.csv,2021,Men,0,Excluded - No Season
+match_statistics.csv,2022,Men,44,Present
+match_statistics.csv,2023,Men,52,Present
+match_statistics.csv,2024,Men,54,Present
+match_statistics.csv,2025,Men,58,Present
+match_statistics.csv,2026,Men,44,Present
+per_match_statistics.csv,2006,Women,0,Not Available in This Dataset
+per_match_statistics.csv,2007,Women,0,Not Available in This Dataset
+per_match_statistics.csv,2008,Women,0,Not Available in This Dataset
+per_match_statistics.csv,2009,Women,0,Not Available in This Dataset
+per_match_statistics.csv,2010,Women,0,Not Available in This Dataset
+per_match_statistics.csv,2011,Women,0,Not Available in This Dataset
+per_match_statistics.csv,2012,Women,18,Present
+per_match_statistics.csv,2013,Women,18,Present
+per_match_statistics.csv,2014,Women,18,Present
+per_match_statistics.csv,2015,Women,18,Present
+per_match_statistics.csv,2016,Women,18,Present
+per_match_statistics.csv,2017,Women,18,Present
+per_match_statistics.csv,2018,Women,18,Present
+per_match_statistics.csv,2019,Women,18,Present
+per_match_statistics.csv,2020,Women,0,Excluded - No Season
+per_match_statistics.csv,2021,Women,18,Present
+per_match_statistics.csv,2022,Women,18,Present
+per_match_statistics.csv,2023,Women,18,Present
+per_match_statistics.csv,2024,Women,18,Present
+per_match_statistics.csv,2025,Women,18,Present
+per_match_statistics.csv,2026,Women,18,Present
+per_match_statistics.csv,2007,Men,0,Not Available in This Dataset
+per_match_statistics.csv,2008,Men,0,Not Available in This Dataset
+per_match_statistics.csv,2009,Men,0,Not Available in This Dataset
+per_match_statistics.csv,2010,Men,0,Not Available in This Dataset
+per_match_statistics.csv,2011,Men,0,Not Available in This Dataset
+per_match_statistics.csv,2012,Men,0,Not Available in This Dataset
+per_match_statistics.csv,2013,Men,18,Present
+per_match_statistics.csv,2014,Men,18,Present
+per_match_statistics.csv,2015,Men,18,Present
+per_match_statistics.csv,2016,Men,18,Present
+per_match_statistics.csv,2017,Men,18,Present
+per_match_statistics.csv,2018,Men,18,Present
+per_match_statistics.csv,2019,Men,18,Present
+per_match_statistics.csv,2020,Men,18,Present
+per_match_statistics.csv,2021,Men,0,Excluded - No Season
+per_match_statistics.csv,2022,Men,18,Present
+per_match_statistics.csv,2023,Men,18,Present
+per_match_statistics.csv,2024,Men,18,Present
+per_match_statistics.csv,2025,Men,18,Present
+per_match_statistics.csv,2026,Men,18,Present
+historical_match_results.csv,2006,Women,23,Present
+historical_match_results.csv,2007,Women,0,Not Available in This Dataset
+historical_match_results.csv,2008,Women,0,Not Available in This Dataset
+historical_match_results.csv,2009,Women,0,Not Available in This Dataset
+historical_match_results.csv,2010,Women,0,Not Available in This Dataset
+historical_match_results.csv,2011,Women,0,Not Available in This Dataset
+historical_match_results.csv,2012,Women,0,Not Available in This Dataset
+historical_match_results.csv,2013,Women,0,Not Available in This Dataset
+historical_match_results.csv,2014,Women,0,Not Available in This Dataset
+historical_match_results.csv,2015,Women,0,Not Available in This Dataset
+historical_match_results.csv,2016,Women,0,Not Available in This Dataset
+historical_match_results.csv,2017,Women,0,Not Available in This Dataset
+historical_match_results.csv,2018,Women,0,Not Available in This Dataset
+historical_match_results.csv,2019,Women,0,Not Available in This Dataset
+historical_match_results.csv,2020,Women,0,Excluded - No Season
+historical_match_results.csv,2021,Women,0,Not Available in This Dataset
+historical_match_results.csv,2022,Women,0,Not Available in This Dataset
+historical_match_results.csv,2023,Women,0,Not Available in This Dataset
+historical_match_results.csv,2024,Women,0,Not Available in This Dataset
+historical_match_results.csv,2025,Women,0,Not Available in This Dataset
+historical_match_results.csv,2026,Women,0,Not Available in This Dataset
+historical_match_results.csv,2007,Men,24,Present
+historical_match_results.csv,2008,Men,23,Present
+historical_match_results.csv,2009,Men,22,Present
+historical_match_results.csv,2010,Men,20,Present
+historical_match_results.csv,2011,Men,22,Present
+historical_match_results.csv,2012,Men,24,Present
+historical_match_results.csv,2013,Men,0,Not Available in This Dataset
+historical_match_results.csv,2014,Men,0,Not Available in This Dataset
+historical_match_results.csv,2015,Men,0,Not Available in This Dataset
+historical_match_results.csv,2016,Men,0,Not Available in This Dataset
+historical_match_results.csv,2017,Men,0,Not Available in This Dataset
+historical_match_results.csv,2018,Men,0,Not Available in This Dataset
+historical_match_results.csv,2019,Men,0,Not Available in This Dataset
+historical_match_results.csv,2020,Men,0,Not Available in This Dataset
+historical_match_results.csv,2021,Men,0,Excluded - No Season
+historical_match_results.csv,2022,Men,0,Not Available in This Dataset
+historical_match_results.csv,2023,Men,0,Not Available in This Dataset
+historical_match_results.csv,2024,Men,0,Not Available in This Dataset
+historical_match_results.csv,2025,Men,0,Not Available in This Dataset
+historical_match_results.csv,2026,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2006,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2007,Women,36,Present
+historical_game_tables.csv,2008,Women,36,Present
+historical_game_tables.csv,2009,Women,36,Present
+historical_game_tables.csv,2010,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2011,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2012,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2013,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2014,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2015,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2016,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2017,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2018,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2019,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2020,Women,0,Excluded - No Season
+historical_game_tables.csv,2021,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2022,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2023,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2024,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2025,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2026,Women,0,Not Available in This Dataset
+historical_game_tables.csv,2007,Men,36,Present
+historical_game_tables.csv,2008,Men,36,Present
+historical_game_tables.csv,2009,Men,36,Present
+historical_game_tables.csv,2010,Men,36,Present
+historical_game_tables.csv,2011,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2012,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2013,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2014,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2015,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2016,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2017,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2018,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2019,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2020,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2021,Men,0,Excluded - No Season
+historical_game_tables.csv,2022,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2023,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2024,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2025,Men,0,Not Available in This Dataset
+historical_game_tables.csv,2026,Men,0,Not Available in This Dataset

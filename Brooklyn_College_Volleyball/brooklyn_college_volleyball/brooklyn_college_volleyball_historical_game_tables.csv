@@ -1,0 +1,253 @@
+﻿School,Season,Gender,Category,Team,GameNumber,Value,SourceFile,LineNumber,RawLine
+Brooklyn College,2007,Men,Match Wins by Number of Games,Brooklyn College,1,0,raw_historical_all/men/2007/pre_01.txt,91,Brooklyn College....    0    0    8    5    2 -    15
+Brooklyn College,2007,Men,Match Wins by Number of Games,Brooklyn College,2,0,raw_historical_all/men/2007/pre_01.txt,91,Brooklyn College....    0    0    8    5    2 -    15
+Brooklyn College,2007,Men,Match Wins by Number of Games,Brooklyn College,3,8,raw_historical_all/men/2007/pre_01.txt,91,Brooklyn College....    0    0    8    5    2 -    15
+Brooklyn College,2007,Men,Match Wins by Number of Games,Brooklyn College,4,5,raw_historical_all/men/2007/pre_01.txt,91,Brooklyn College....    0    0    8    5    2 -    15
+Brooklyn College,2007,Men,Match Wins by Number of Games,Brooklyn College,5,2,raw_historical_all/men/2007/pre_01.txt,91,Brooklyn College....    0    0    8    5    2 -    15
+Brooklyn College,2007,Men,Match Wins by Number of Games,Brooklyn College,Total,15,raw_historical_all/men/2007/pre_01.txt,91,Brooklyn College....    0    0    8    5    2 -    15
+Brooklyn College,2007,Men,Match Wins by Number of Games,Opponents,1,0,raw_historical_all/men/2007/pre_01.txt,93,Opponents...........    0    0    5    4    0 -     9
+Brooklyn College,2007,Men,Match Wins by Number of Games,Opponents,2,0,raw_historical_all/men/2007/pre_01.txt,93,Opponents...........    0    0    5    4    0 -     9
+Brooklyn College,2007,Men,Match Wins by Number of Games,Opponents,3,5,raw_historical_all/men/2007/pre_01.txt,93,Opponents...........    0    0    5    4    0 -     9
+Brooklyn College,2007,Men,Match Wins by Number of Games,Opponents,4,4,raw_historical_all/men/2007/pre_01.txt,93,Opponents...........    0    0    5    4    0 -     9
+Brooklyn College,2007,Men,Match Wins by Number of Games,Opponents,5,0,raw_historical_all/men/2007/pre_01.txt,93,Opponents...........    0    0    5    4    0 -     9
+Brooklyn College,2007,Men,Match Wins by Number of Games,Opponents,Total,9,raw_historical_all/men/2007/pre_01.txt,93,Opponents...........    0    0    5    4    0 -     9
+Brooklyn College,2007,Men,Games Won by Game,Brooklyn College,1,14,raw_historical_all/men/2007/pre_01.txt,101,Brooklyn College....   14   15   12    6    2 -    49
+Brooklyn College,2007,Men,Games Won by Game,Brooklyn College,2,15,raw_historical_all/men/2007/pre_01.txt,101,Brooklyn College....   14   15   12    6    2 -    49
+Brooklyn College,2007,Men,Games Won by Game,Brooklyn College,3,12,raw_historical_all/men/2007/pre_01.txt,101,Brooklyn College....   14   15   12    6    2 -    49
+Brooklyn College,2007,Men,Games Won by Game,Brooklyn College,4,6,raw_historical_all/men/2007/pre_01.txt,101,Brooklyn College....   14   15   12    6    2 -    49
+Brooklyn College,2007,Men,Games Won by Game,Brooklyn College,5,2,raw_historical_all/men/2007/pre_01.txt,101,Brooklyn College....   14   15   12    6    2 -    49
+Brooklyn College,2007,Men,Games Won by Game,Brooklyn College,Total,49,raw_historical_all/men/2007/pre_01.txt,101,Brooklyn College....   14   15   12    6    2 -    49
+Brooklyn College,2007,Men,Games Won by Game,Opponents,1,10,raw_historical_all/men/2007/pre_01.txt,103,Opponents...........   10    9   12    5    0 -    36
+Brooklyn College,2007,Men,Games Won by Game,Opponents,2,9,raw_historical_all/men/2007/pre_01.txt,103,Opponents...........   10    9   12    5    0 -    36
+Brooklyn College,2007,Men,Games Won by Game,Opponents,3,12,raw_historical_all/men/2007/pre_01.txt,103,Opponents...........   10    9   12    5    0 -    36
+Brooklyn College,2007,Men,Games Won by Game,Opponents,4,5,raw_historical_all/men/2007/pre_01.txt,103,Opponents...........   10    9   12    5    0 -    36
+Brooklyn College,2007,Men,Games Won by Game,Opponents,5,0,raw_historical_all/men/2007/pre_01.txt,103,Opponents...........   10    9   12    5    0 -    36
+Brooklyn College,2007,Men,Games Won by Game,Opponents,Total,36,raw_historical_all/men/2007/pre_01.txt,103,Opponents...........   10    9   12    5    0 -    36
+Brooklyn College,2007,Men,Points by Game,Brooklyn College,1,664,raw_historical_all/men/2007/pre_01.txt,111,Brooklyn College....  664  653  656  299   30 -  2302
+Brooklyn College,2007,Men,Points by Game,Brooklyn College,2,653,raw_historical_all/men/2007/pre_01.txt,111,Brooklyn College....  664  653  656  299   30 -  2302
+Brooklyn College,2007,Men,Points by Game,Brooklyn College,3,656,raw_historical_all/men/2007/pre_01.txt,111,Brooklyn College....  664  653  656  299   30 -  2302
+Brooklyn College,2007,Men,Points by Game,Brooklyn College,4,299,raw_historical_all/men/2007/pre_01.txt,111,Brooklyn College....  664  653  656  299   30 -  2302
+Brooklyn College,2007,Men,Points by Game,Brooklyn College,5,30,raw_historical_all/men/2007/pre_01.txt,111,Brooklyn College....  664  653  656  299   30 -  2302
+Brooklyn College,2007,Men,Points by Game,Brooklyn College,Total,2302,raw_historical_all/men/2007/pre_01.txt,111,Brooklyn College....  664  653  656  299   30 -  2302
+Brooklyn College,2007,Men,Points by Game,Opponents,1,592,raw_historical_all/men/2007/pre_01.txt,113,Opponents...........  592  593  609  289   20 -  2103
+Brooklyn College,2007,Men,Points by Game,Opponents,2,593,raw_historical_all/men/2007/pre_01.txt,113,Opponents...........  592  593  609  289   20 -  2103
+Brooklyn College,2007,Men,Points by Game,Opponents,3,609,raw_historical_all/men/2007/pre_01.txt,113,Opponents...........  592  593  609  289   20 -  2103
+Brooklyn College,2007,Men,Points by Game,Opponents,4,289,raw_historical_all/men/2007/pre_01.txt,113,Opponents...........  592  593  609  289   20 -  2103
+Brooklyn College,2007,Men,Points by Game,Opponents,5,20,raw_historical_all/men/2007/pre_01.txt,113,Opponents...........  592  593  609  289   20 -  2103
+Brooklyn College,2007,Men,Points by Game,Opponents,Total,2103,raw_historical_all/men/2007/pre_01.txt,113,Opponents...........  592  593  609  289   20 -  2103
+Brooklyn College,2008,Men,Match Wins by Number of Games,Brooklyn College,1,0,raw_historical_all/men/2008/pre_01.txt,91,Brooklyn College....    0    0    4    1    2 -     7
+Brooklyn College,2008,Men,Match Wins by Number of Games,Brooklyn College,2,0,raw_historical_all/men/2008/pre_01.txt,91,Brooklyn College....    0    0    4    1    2 -     7
+Brooklyn College,2008,Men,Match Wins by Number of Games,Brooklyn College,3,4,raw_historical_all/men/2008/pre_01.txt,91,Brooklyn College....    0    0    4    1    2 -     7
+Brooklyn College,2008,Men,Match Wins by Number of Games,Brooklyn College,4,1,raw_historical_all/men/2008/pre_01.txt,91,Brooklyn College....    0    0    4    1    2 -     7
+Brooklyn College,2008,Men,Match Wins by Number of Games,Brooklyn College,5,2,raw_historical_all/men/2008/pre_01.txt,91,Brooklyn College....    0    0    4    1    2 -     7
+Brooklyn College,2008,Men,Match Wins by Number of Games,Brooklyn College,Total,7,raw_historical_all/men/2008/pre_01.txt,91,Brooklyn College....    0    0    4    1    2 -     7
+Brooklyn College,2008,Men,Match Wins by Number of Games,Opponents,1,0,raw_historical_all/men/2008/pre_01.txt,93,Opponents...........    0    0   11    4    1 -    16
+Brooklyn College,2008,Men,Match Wins by Number of Games,Opponents,2,0,raw_historical_all/men/2008/pre_01.txt,93,Opponents...........    0    0   11    4    1 -    16
+Brooklyn College,2008,Men,Match Wins by Number of Games,Opponents,3,11,raw_historical_all/men/2008/pre_01.txt,93,Opponents...........    0    0   11    4    1 -    16
+Brooklyn College,2008,Men,Match Wins by Number of Games,Opponents,4,4,raw_historical_all/men/2008/pre_01.txt,93,Opponents...........    0    0   11    4    1 -    16
+Brooklyn College,2008,Men,Match Wins by Number of Games,Opponents,5,1,raw_historical_all/men/2008/pre_01.txt,93,Opponents...........    0    0   11    4    1 -    16
+Brooklyn College,2008,Men,Match Wins by Number of Games,Opponents,Total,16,raw_historical_all/men/2008/pre_01.txt,93,Opponents...........    0    0   11    4    1 -    16
+Brooklyn College,2008,Men,Games Won by Game,Brooklyn College,1,7,raw_historical_all/men/2008/pre_01.txt,101,Brooklyn College....    7    6   10    2    2 -    27
+Brooklyn College,2008,Men,Games Won by Game,Brooklyn College,2,6,raw_historical_all/men/2008/pre_01.txt,101,Brooklyn College....    7    6   10    2    2 -    27
+Brooklyn College,2008,Men,Games Won by Game,Brooklyn College,3,10,raw_historical_all/men/2008/pre_01.txt,101,Brooklyn College....    7    6   10    2    2 -    27
+Brooklyn College,2008,Men,Games Won by Game,Brooklyn College,4,2,raw_historical_all/men/2008/pre_01.txt,101,Brooklyn College....    7    6   10    2    2 -    27
+Brooklyn College,2008,Men,Games Won by Game,Brooklyn College,5,2,raw_historical_all/men/2008/pre_01.txt,101,Brooklyn College....    7    6   10    2    2 -    27
+Brooklyn College,2008,Men,Games Won by Game,Brooklyn College,Total,27,raw_historical_all/men/2008/pre_01.txt,101,Brooklyn College....    7    6   10    2    2 -    27
+Brooklyn College,2008,Men,Games Won by Game,Opponents,1,16,raw_historical_all/men/2008/pre_01.txt,103,Opponents...........   16   17   13    6    1 -    53
+Brooklyn College,2008,Men,Games Won by Game,Opponents,2,17,raw_historical_all/men/2008/pre_01.txt,103,Opponents...........   16   17   13    6    1 -    53
+Brooklyn College,2008,Men,Games Won by Game,Opponents,3,13,raw_historical_all/men/2008/pre_01.txt,103,Opponents...........   16   17   13    6    1 -    53
+Brooklyn College,2008,Men,Games Won by Game,Opponents,4,6,raw_historical_all/men/2008/pre_01.txt,103,Opponents...........   16   17   13    6    1 -    53
+Brooklyn College,2008,Men,Games Won by Game,Opponents,5,1,raw_historical_all/men/2008/pre_01.txt,103,Opponents...........   16   17   13    6    1 -    53
+Brooklyn College,2008,Men,Games Won by Game,Opponents,Total,53,raw_historical_all/men/2008/pre_01.txt,103,Opponents...........   16   17   13    6    1 -    53
+Brooklyn College,2008,Men,Points by Game,Brooklyn College,1,500,raw_historical_all/men/2008/pre_01.txt,111,Brooklyn College....  500  535  585  170   40 -  1830
+Brooklyn College,2008,Men,Points by Game,Brooklyn College,2,535,raw_historical_all/men/2008/pre_01.txt,111,Brooklyn College....  500  535  585  170   40 -  1830
+Brooklyn College,2008,Men,Points by Game,Brooklyn College,3,585,raw_historical_all/men/2008/pre_01.txt,111,Brooklyn College....  500  535  585  170   40 -  1830
+Brooklyn College,2008,Men,Points by Game,Brooklyn College,4,170,raw_historical_all/men/2008/pre_01.txt,111,Brooklyn College....  500  535  585  170   40 -  1830
+Brooklyn College,2008,Men,Points by Game,Brooklyn College,5,40,raw_historical_all/men/2008/pre_01.txt,111,Brooklyn College....  500  535  585  170   40 -  1830
+Brooklyn College,2008,Men,Points by Game,Brooklyn College,Total,1830,raw_historical_all/men/2008/pre_01.txt,111,Brooklyn College....  500  535  585  170   40 -  1830
+Brooklyn College,2008,Men,Points by Game,Opponents,1,635,raw_historical_all/men/2008/pre_01.txt,113,Opponents...........  635  624  624  226   38 -  2147
+Brooklyn College,2008,Men,Points by Game,Opponents,2,624,raw_historical_all/men/2008/pre_01.txt,113,Opponents...........  635  624  624  226   38 -  2147
+Brooklyn College,2008,Men,Points by Game,Opponents,3,624,raw_historical_all/men/2008/pre_01.txt,113,Opponents...........  635  624  624  226   38 -  2147
+Brooklyn College,2008,Men,Points by Game,Opponents,4,226,raw_historical_all/men/2008/pre_01.txt,113,Opponents...........  635  624  624  226   38 -  2147
+Brooklyn College,2008,Men,Points by Game,Opponents,5,38,raw_historical_all/men/2008/pre_01.txt,113,Opponents...........  635  624  624  226   38 -  2147
+Brooklyn College,2008,Men,Points by Game,Opponents,Total,2147,raw_historical_all/men/2008/pre_01.txt,113,Opponents...........  635  624  624  226   38 -  2147
+Brooklyn College,2009,Men,Match Wins by Number of Games,Brooklyn College,1,1,raw_historical_all/men/2009/pre_01.txt,91,Brooklyn College....    1    0    4    0    1 -     6
+Brooklyn College,2009,Men,Match Wins by Number of Games,Brooklyn College,2,0,raw_historical_all/men/2009/pre_01.txt,91,Brooklyn College....    1    0    4    0    1 -     6
+Brooklyn College,2009,Men,Match Wins by Number of Games,Brooklyn College,3,4,raw_historical_all/men/2009/pre_01.txt,91,Brooklyn College....    1    0    4    0    1 -     6
+Brooklyn College,2009,Men,Match Wins by Number of Games,Brooklyn College,4,0,raw_historical_all/men/2009/pre_01.txt,91,Brooklyn College....    1    0    4    0    1 -     6
+Brooklyn College,2009,Men,Match Wins by Number of Games,Brooklyn College,5,1,raw_historical_all/men/2009/pre_01.txt,91,Brooklyn College....    1    0    4    0    1 -     6
+Brooklyn College,2009,Men,Match Wins by Number of Games,Brooklyn College,Total,6,raw_historical_all/men/2009/pre_01.txt,91,Brooklyn College....    1    0    4    0    1 -     6
+Brooklyn College,2009,Men,Match Wins by Number of Games,Opponents,1,1,raw_historical_all/men/2009/pre_01.txt,93,Opponents...........    1    0    9    5    1 -    16
+Brooklyn College,2009,Men,Match Wins by Number of Games,Opponents,2,0,raw_historical_all/men/2009/pre_01.txt,93,Opponents...........    1    0    9    5    1 -    16
+Brooklyn College,2009,Men,Match Wins by Number of Games,Opponents,3,9,raw_historical_all/men/2009/pre_01.txt,93,Opponents...........    1    0    9    5    1 -    16
+Brooklyn College,2009,Men,Match Wins by Number of Games,Opponents,4,5,raw_historical_all/men/2009/pre_01.txt,93,Opponents...........    1    0    9    5    1 -    16
+Brooklyn College,2009,Men,Match Wins by Number of Games,Opponents,5,1,raw_historical_all/men/2009/pre_01.txt,93,Opponents...........    1    0    9    5    1 -    16
+Brooklyn College,2009,Men,Match Wins by Number of Games,Opponents,Total,16,raw_historical_all/men/2009/pre_01.txt,93,Opponents...........    1    0    9    5    1 -    16
+Brooklyn College,2009,Men,Games Won by Game,Brooklyn College,1,8,raw_historical_all/men/2009/pre_01.txt,101,Brooklyn College....    8    7    9    1    1 -    26
+Brooklyn College,2009,Men,Games Won by Game,Brooklyn College,2,7,raw_historical_all/men/2009/pre_01.txt,101,Brooklyn College....    8    7    9    1    1 -    26
+Brooklyn College,2009,Men,Games Won by Game,Brooklyn College,3,9,raw_historical_all/men/2009/pre_01.txt,101,Brooklyn College....    8    7    9    1    1 -    26
+Brooklyn College,2009,Men,Games Won by Game,Brooklyn College,4,1,raw_historical_all/men/2009/pre_01.txt,101,Brooklyn College....    8    7    9    1    1 -    26
+Brooklyn College,2009,Men,Games Won by Game,Brooklyn College,5,1,raw_historical_all/men/2009/pre_01.txt,101,Brooklyn College....    8    7    9    1    1 -    26
+Brooklyn College,2009,Men,Games Won by Game,Brooklyn College,Total,26,raw_historical_all/men/2009/pre_01.txt,101,Brooklyn College....    8    7    9    1    1 -    26
+Brooklyn College,2009,Men,Games Won by Game,Opponents,1,14,raw_historical_all/men/2009/pre_01.txt,103,Opponents...........   14   15   13    7    1 -    50
+Brooklyn College,2009,Men,Games Won by Game,Opponents,2,15,raw_historical_all/men/2009/pre_01.txt,103,Opponents...........   14   15   13    7    1 -    50
+Brooklyn College,2009,Men,Games Won by Game,Opponents,3,13,raw_historical_all/men/2009/pre_01.txt,103,Opponents...........   14   15   13    7    1 -    50
+Brooklyn College,2009,Men,Games Won by Game,Opponents,4,7,raw_historical_all/men/2009/pre_01.txt,103,Opponents...........   14   15   13    7    1 -    50
+Brooklyn College,2009,Men,Games Won by Game,Opponents,5,1,raw_historical_all/men/2009/pre_01.txt,103,Opponents...........   14   15   13    7    1 -    50
+Brooklyn College,2009,Men,Games Won by Game,Opponents,Total,50,raw_historical_all/men/2009/pre_01.txt,103,Opponents...........   14   15   13    7    1 -    50
+Brooklyn College,2009,Men,Points by Game,Brooklyn College,1,509,raw_historical_all/men/2009/pre_01.txt,111,Brooklyn College....  509  500  508  198   32 -  1747
+Brooklyn College,2009,Men,Points by Game,Brooklyn College,2,500,raw_historical_all/men/2009/pre_01.txt,111,Brooklyn College....  509  500  508  198   32 -  1747
+Brooklyn College,2009,Men,Points by Game,Brooklyn College,3,508,raw_historical_all/men/2009/pre_01.txt,111,Brooklyn College....  509  500  508  198   32 -  1747
+Brooklyn College,2009,Men,Points by Game,Brooklyn College,4,198,raw_historical_all/men/2009/pre_01.txt,111,Brooklyn College....  509  500  508  198   32 -  1747
+Brooklyn College,2009,Men,Points by Game,Brooklyn College,5,32,raw_historical_all/men/2009/pre_01.txt,111,Brooklyn College....  509  500  508  198   32 -  1747
+Brooklyn College,2009,Men,Points by Game,Brooklyn College,Total,1747,raw_historical_all/men/2009/pre_01.txt,111,Brooklyn College....  509  500  508  198   32 -  1747
+Brooklyn College,2009,Men,Points by Game,Opponents,1,582,raw_historical_all/men/2009/pre_01.txt,113,Opponents...........  582  604  585  236   32 -  2039
+Brooklyn College,2009,Men,Points by Game,Opponents,2,604,raw_historical_all/men/2009/pre_01.txt,113,Opponents...........  582  604  585  236   32 -  2039
+Brooklyn College,2009,Men,Points by Game,Opponents,3,585,raw_historical_all/men/2009/pre_01.txt,113,Opponents...........  582  604  585  236   32 -  2039
+Brooklyn College,2009,Men,Points by Game,Opponents,4,236,raw_historical_all/men/2009/pre_01.txt,113,Opponents...........  582  604  585  236   32 -  2039
+Brooklyn College,2009,Men,Points by Game,Opponents,5,32,raw_historical_all/men/2009/pre_01.txt,113,Opponents...........  582  604  585  236   32 -  2039
+Brooklyn College,2009,Men,Points by Game,Opponents,Total,2039,raw_historical_all/men/2009/pre_01.txt,113,Opponents...........  582  604  585  236   32 -  2039
+Brooklyn College,2010,Men,Match Wins by Number of Games,Brooklyn College,1,0,raw_historical_all/men/2010/pre_01.txt,93,Brooklyn College....    0    0    2    1    0 -     3
+Brooklyn College,2010,Men,Match Wins by Number of Games,Brooklyn College,2,0,raw_historical_all/men/2010/pre_01.txt,93,Brooklyn College....    0    0    2    1    0 -     3
+Brooklyn College,2010,Men,Match Wins by Number of Games,Brooklyn College,3,2,raw_historical_all/men/2010/pre_01.txt,93,Brooklyn College....    0    0    2    1    0 -     3
+Brooklyn College,2010,Men,Match Wins by Number of Games,Brooklyn College,4,1,raw_historical_all/men/2010/pre_01.txt,93,Brooklyn College....    0    0    2    1    0 -     3
+Brooklyn College,2010,Men,Match Wins by Number of Games,Brooklyn College,5,0,raw_historical_all/men/2010/pre_01.txt,93,Brooklyn College....    0    0    2    1    0 -     3
+Brooklyn College,2010,Men,Match Wins by Number of Games,Brooklyn College,Total,3,raw_historical_all/men/2010/pre_01.txt,93,Brooklyn College....    0    0    2    1    0 -     3
+Brooklyn College,2010,Men,Match Wins by Number of Games,Opponents,1,0,raw_historical_all/men/2010/pre_01.txt,95,Opponents...........    0    0   14    1    2 -    17
+Brooklyn College,2010,Men,Match Wins by Number of Games,Opponents,2,0,raw_historical_all/men/2010/pre_01.txt,95,Opponents...........    0    0   14    1    2 -    17
+Brooklyn College,2010,Men,Match Wins by Number of Games,Opponents,3,14,raw_historical_all/men/2010/pre_01.txt,95,Opponents...........    0    0   14    1    2 -    17
+Brooklyn College,2010,Men,Match Wins by Number of Games,Opponents,4,1,raw_historical_all/men/2010/pre_01.txt,95,Opponents...........    0    0   14    1    2 -    17
+Brooklyn College,2010,Men,Match Wins by Number of Games,Opponents,5,2,raw_historical_all/men/2010/pre_01.txt,95,Opponents...........    0    0   14    1    2 -    17
+Brooklyn College,2010,Men,Match Wins by Number of Games,Opponents,Total,17,raw_historical_all/men/2010/pre_01.txt,95,Opponents...........    0    0   14    1    2 -    17
+Brooklyn College,2010,Men,Games Won by Game,Brooklyn College,1,3,raw_historical_all/men/2010/pre_01.txt,103,Brooklyn College....    3    5    4    2    0 -    14
+Brooklyn College,2010,Men,Games Won by Game,Brooklyn College,2,5,raw_historical_all/men/2010/pre_01.txt,103,Brooklyn College....    3    5    4    2    0 -    14
+Brooklyn College,2010,Men,Games Won by Game,Brooklyn College,3,4,raw_historical_all/men/2010/pre_01.txt,103,Brooklyn College....    3    5    4    2    0 -    14
+Brooklyn College,2010,Men,Games Won by Game,Brooklyn College,4,2,raw_historical_all/men/2010/pre_01.txt,103,Brooklyn College....    3    5    4    2    0 -    14
+Brooklyn College,2010,Men,Games Won by Game,Brooklyn College,5,0,raw_historical_all/men/2010/pre_01.txt,103,Brooklyn College....    3    5    4    2    0 -    14
+Brooklyn College,2010,Men,Games Won by Game,Brooklyn College,Total,14,raw_historical_all/men/2010/pre_01.txt,103,Brooklyn College....    3    5    4    2    0 -    14
+Brooklyn College,2010,Men,Games Won by Game,Opponents,1,17,raw_historical_all/men/2010/pre_01.txt,105,Opponents...........   17   15   16    2    2 -    52
+Brooklyn College,2010,Men,Games Won by Game,Opponents,2,15,raw_historical_all/men/2010/pre_01.txt,105,Opponents...........   17   15   16    2    2 -    52
+Brooklyn College,2010,Men,Games Won by Game,Opponents,3,16,raw_historical_all/men/2010/pre_01.txt,105,Opponents...........   17   15   16    2    2 -    52
+Brooklyn College,2010,Men,Games Won by Game,Opponents,4,2,raw_historical_all/men/2010/pre_01.txt,105,Opponents...........   17   15   16    2    2 -    52
+Brooklyn College,2010,Men,Games Won by Game,Opponents,5,2,raw_historical_all/men/2010/pre_01.txt,105,Opponents...........   17   15   16    2    2 -    52
+Brooklyn College,2010,Men,Games Won by Game,Opponents,Total,52,raw_historical_all/men/2010/pre_01.txt,105,Opponents...........   17   15   16    2    2 -    52
+Brooklyn College,2010,Men,Points by Game,Brooklyn College,1,416,raw_historical_all/men/2010/pre_01.txt,113,Brooklyn College....  416  445  480   87   17 -  1445
+Brooklyn College,2010,Men,Points by Game,Brooklyn College,2,445,raw_historical_all/men/2010/pre_01.txt,113,Brooklyn College....  416  445  480   87   17 -  1445
+Brooklyn College,2010,Men,Points by Game,Brooklyn College,3,480,raw_historical_all/men/2010/pre_01.txt,113,Brooklyn College....  416  445  480   87   17 -  1445
+Brooklyn College,2010,Men,Points by Game,Brooklyn College,4,87,raw_historical_all/men/2010/pre_01.txt,113,Brooklyn College....  416  445  480   87   17 -  1445
+Brooklyn College,2010,Men,Points by Game,Brooklyn College,5,17,raw_historical_all/men/2010/pre_01.txt,113,Brooklyn College....  416  445  480   87   17 -  1445
+Brooklyn College,2010,Men,Points by Game,Brooklyn College,Total,1445,raw_historical_all/men/2010/pre_01.txt,113,Brooklyn College....  416  445  480   87   17 -  1445
+Brooklyn College,2010,Men,Points by Game,Opponents,1,574,raw_historical_all/men/2010/pre_01.txt,115,Opponents...........  574  566  568  110   31 -  1849
+Brooklyn College,2010,Men,Points by Game,Opponents,2,566,raw_historical_all/men/2010/pre_01.txt,115,Opponents...........  574  566  568  110   31 -  1849
+Brooklyn College,2010,Men,Points by Game,Opponents,3,568,raw_historical_all/men/2010/pre_01.txt,115,Opponents...........  574  566  568  110   31 -  1849
+Brooklyn College,2010,Men,Points by Game,Opponents,4,110,raw_historical_all/men/2010/pre_01.txt,115,Opponents...........  574  566  568  110   31 -  1849
+Brooklyn College,2010,Men,Points by Game,Opponents,5,31,raw_historical_all/men/2010/pre_01.txt,115,Opponents...........  574  566  568  110   31 -  1849
+Brooklyn College,2010,Men,Points by Game,Opponents,Total,1849,raw_historical_all/men/2010/pre_01.txt,115,Opponents...........  574  566  568  110   31 -  1849
+Brooklyn College,2007,Women,Match Wins by Number of Games,Brooklyn College,1,0,raw_historical_all/women/2007/pre_01.txt,91,Brooklyn College....    0    0    5    0    1 -     6
+Brooklyn College,2007,Women,Match Wins by Number of Games,Brooklyn College,2,0,raw_historical_all/women/2007/pre_01.txt,91,Brooklyn College....    0    0    5    0    1 -     6
+Brooklyn College,2007,Women,Match Wins by Number of Games,Brooklyn College,3,5,raw_historical_all/women/2007/pre_01.txt,91,Brooklyn College....    0    0    5    0    1 -     6
+Brooklyn College,2007,Women,Match Wins by Number of Games,Brooklyn College,4,0,raw_historical_all/women/2007/pre_01.txt,91,Brooklyn College....    0    0    5    0    1 -     6
+Brooklyn College,2007,Women,Match Wins by Number of Games,Brooklyn College,5,1,raw_historical_all/women/2007/pre_01.txt,91,Brooklyn College....    0    0    5    0    1 -     6
+Brooklyn College,2007,Women,Match Wins by Number of Games,Brooklyn College,Total,6,raw_historical_all/women/2007/pre_01.txt,91,Brooklyn College....    0    0    5    0    1 -     6
+Brooklyn College,2007,Women,Match Wins by Number of Games,Opponents,1,0,raw_historical_all/women/2007/pre_01.txt,93,Opponents...........    0    0   13    4    0 -    17
+Brooklyn College,2007,Women,Match Wins by Number of Games,Opponents,2,0,raw_historical_all/women/2007/pre_01.txt,93,Opponents...........    0    0   13    4    0 -    17
+Brooklyn College,2007,Women,Match Wins by Number of Games,Opponents,3,13,raw_historical_all/women/2007/pre_01.txt,93,Opponents...........    0    0   13    4    0 -    17
+Brooklyn College,2007,Women,Match Wins by Number of Games,Opponents,4,4,raw_historical_all/women/2007/pre_01.txt,93,Opponents...........    0    0   13    4    0 -    17
+Brooklyn College,2007,Women,Match Wins by Number of Games,Opponents,5,0,raw_historical_all/women/2007/pre_01.txt,93,Opponents...........    0    0   13    4    0 -    17
+Brooklyn College,2007,Women,Match Wins by Number of Games,Opponents,Total,17,raw_historical_all/women/2007/pre_01.txt,93,Opponents...........    0    0   13    4    0 -    17
+Brooklyn College,2007,Women,Games Won by Game,Brooklyn College,1,8,raw_historical_all/women/2007/pre_01.txt,101,Brooklyn College....    8    7    5    1    1 -    22
+Brooklyn College,2007,Women,Games Won by Game,Brooklyn College,2,7,raw_historical_all/women/2007/pre_01.txt,101,Brooklyn College....    8    7    5    1    1 -    22
+Brooklyn College,2007,Women,Games Won by Game,Brooklyn College,3,5,raw_historical_all/women/2007/pre_01.txt,101,Brooklyn College....    8    7    5    1    1 -    22
+Brooklyn College,2007,Women,Games Won by Game,Brooklyn College,4,1,raw_historical_all/women/2007/pre_01.txt,101,Brooklyn College....    8    7    5    1    1 -    22
+Brooklyn College,2007,Women,Games Won by Game,Brooklyn College,5,1,raw_historical_all/women/2007/pre_01.txt,101,Brooklyn College....    8    7    5    1    1 -    22
+Brooklyn College,2007,Women,Games Won by Game,Brooklyn College,Total,22,raw_historical_all/women/2007/pre_01.txt,101,Brooklyn College....    8    7    5    1    1 -    22
+Brooklyn College,2007,Women,Games Won by Game,Opponents,1,15,raw_historical_all/women/2007/pre_01.txt,103,Opponents...........   15   16   18    4    0 -    53
+Brooklyn College,2007,Women,Games Won by Game,Opponents,2,16,raw_historical_all/women/2007/pre_01.txt,103,Opponents...........   15   16   18    4    0 -    53
+Brooklyn College,2007,Women,Games Won by Game,Opponents,3,18,raw_historical_all/women/2007/pre_01.txt,103,Opponents...........   15   16   18    4    0 -    53
+Brooklyn College,2007,Women,Games Won by Game,Opponents,4,4,raw_historical_all/women/2007/pre_01.txt,103,Opponents...........   15   16   18    4    0 -    53
+Brooklyn College,2007,Women,Games Won by Game,Opponents,5,0,raw_historical_all/women/2007/pre_01.txt,103,Opponents...........   15   16   18    4    0 -    53
+Brooklyn College,2007,Women,Games Won by Game,Opponents,Total,53,raw_historical_all/women/2007/pre_01.txt,103,Opponents...........   15   16   18    4    0 -    53
+Brooklyn College,2007,Women,Points by Game,Brooklyn College,1,524,raw_historical_all/women/2007/pre_01.txt,111,Brooklyn College....  524  460  512  115   16 -  1627
+Brooklyn College,2007,Women,Points by Game,Brooklyn College,2,460,raw_historical_all/women/2007/pre_01.txt,111,Brooklyn College....  524  460  512  115   16 -  1627
+Brooklyn College,2007,Women,Points by Game,Brooklyn College,3,512,raw_historical_all/women/2007/pre_01.txt,111,Brooklyn College....  524  460  512  115   16 -  1627
+Brooklyn College,2007,Women,Points by Game,Brooklyn College,4,115,raw_historical_all/women/2007/pre_01.txt,111,Brooklyn College....  524  460  512  115   16 -  1627
+Brooklyn College,2007,Women,Points by Game,Brooklyn College,5,16,raw_historical_all/women/2007/pre_01.txt,111,Brooklyn College....  524  460  512  115   16 -  1627
+Brooklyn College,2007,Women,Points by Game,Brooklyn College,Total,1627,raw_historical_all/women/2007/pre_01.txt,111,Brooklyn College....  524  460  512  115   16 -  1627
+Brooklyn College,2007,Women,Points by Game,Opponents,1,594,raw_historical_all/women/2007/pre_01.txt,113,Opponents...........  594  646  657  139   14 -  2050
+Brooklyn College,2007,Women,Points by Game,Opponents,2,646,raw_historical_all/women/2007/pre_01.txt,113,Opponents...........  594  646  657  139   14 -  2050
+Brooklyn College,2007,Women,Points by Game,Opponents,3,657,raw_historical_all/women/2007/pre_01.txt,113,Opponents...........  594  646  657  139   14 -  2050
+Brooklyn College,2007,Women,Points by Game,Opponents,4,139,raw_historical_all/women/2007/pre_01.txt,113,Opponents...........  594  646  657  139   14 -  2050
+Brooklyn College,2007,Women,Points by Game,Opponents,5,14,raw_historical_all/women/2007/pre_01.txt,113,Opponents...........  594  646  657  139   14 -  2050
+Brooklyn College,2007,Women,Points by Game,Opponents,Total,2050,raw_historical_all/women/2007/pre_01.txt,113,Opponents...........  594  646  657  139   14 -  2050
+Brooklyn College,2008,Women,Match Wins by Number of Games,Brooklyn College,1,0,raw_historical_all/women/2008/pre_01.txt,91,Brooklyn College....    0    0    6    1    0 -     7
+Brooklyn College,2008,Women,Match Wins by Number of Games,Brooklyn College,2,0,raw_historical_all/women/2008/pre_01.txt,91,Brooklyn College....    0    0    6    1    0 -     7
+Brooklyn College,2008,Women,Match Wins by Number of Games,Brooklyn College,3,6,raw_historical_all/women/2008/pre_01.txt,91,Brooklyn College....    0    0    6    1    0 -     7
+Brooklyn College,2008,Women,Match Wins by Number of Games,Brooklyn College,4,1,raw_historical_all/women/2008/pre_01.txt,91,Brooklyn College....    0    0    6    1    0 -     7
+Brooklyn College,2008,Women,Match Wins by Number of Games,Brooklyn College,5,0,raw_historical_all/women/2008/pre_01.txt,91,Brooklyn College....    0    0    6    1    0 -     7
+Brooklyn College,2008,Women,Match Wins by Number of Games,Brooklyn College,Total,7,raw_historical_all/women/2008/pre_01.txt,91,Brooklyn College....    0    0    6    1    0 -     7
+Brooklyn College,2008,Women,Match Wins by Number of Games,Opponents,1,0,raw_historical_all/women/2008/pre_01.txt,93,Opponents...........    0    0   10    4    0 -    14
+Brooklyn College,2008,Women,Match Wins by Number of Games,Opponents,2,0,raw_historical_all/women/2008/pre_01.txt,93,Opponents...........    0    0   10    4    0 -    14
+Brooklyn College,2008,Women,Match Wins by Number of Games,Opponents,3,10,raw_historical_all/women/2008/pre_01.txt,93,Opponents...........    0    0   10    4    0 -    14
+Brooklyn College,2008,Women,Match Wins by Number of Games,Opponents,4,4,raw_historical_all/women/2008/pre_01.txt,93,Opponents...........    0    0   10    4    0 -    14
+Brooklyn College,2008,Women,Match Wins by Number of Games,Opponents,5,0,raw_historical_all/women/2008/pre_01.txt,93,Opponents...........    0    0   10    4    0 -    14
+Brooklyn College,2008,Women,Match Wins by Number of Games,Opponents,Total,14,raw_historical_all/women/2008/pre_01.txt,93,Opponents...........    0    0   10    4    0 -    14
+Brooklyn College,2008,Women,Games Won by Game,Brooklyn College,1,7,raw_historical_all/women/2008/pre_01.txt,101,Brooklyn College....    7    9    8    1    0 -    25
+Brooklyn College,2008,Women,Games Won by Game,Brooklyn College,2,9,raw_historical_all/women/2008/pre_01.txt,101,Brooklyn College....    7    9    8    1    0 -    25
+Brooklyn College,2008,Women,Games Won by Game,Brooklyn College,3,8,raw_historical_all/women/2008/pre_01.txt,101,Brooklyn College....    7    9    8    1    0 -    25
+Brooklyn College,2008,Women,Games Won by Game,Brooklyn College,4,1,raw_historical_all/women/2008/pre_01.txt,101,Brooklyn College....    7    9    8    1    0 -    25
+Brooklyn College,2008,Women,Games Won by Game,Brooklyn College,5,0,raw_historical_all/women/2008/pre_01.txt,101,Brooklyn College....    7    9    8    1    0 -    25
+Brooklyn College,2008,Women,Games Won by Game,Brooklyn College,Total,25,raw_historical_all/women/2008/pre_01.txt,101,Brooklyn College....    7    9    8    1    0 -    25
+Brooklyn College,2008,Women,Games Won by Game,Opponents,1,14,raw_historical_all/women/2008/pre_01.txt,103,Opponents...........   14   12   13    4    0 -    43
+Brooklyn College,2008,Women,Games Won by Game,Opponents,2,12,raw_historical_all/women/2008/pre_01.txt,103,Opponents...........   14   12   13    4    0 -    43
+Brooklyn College,2008,Women,Games Won by Game,Opponents,3,13,raw_historical_all/women/2008/pre_01.txt,103,Opponents...........   14   12   13    4    0 -    43
+Brooklyn College,2008,Women,Games Won by Game,Opponents,4,4,raw_historical_all/women/2008/pre_01.txt,103,Opponents...........   14   12   13    4    0 -    43
+Brooklyn College,2008,Women,Games Won by Game,Opponents,5,0,raw_historical_all/women/2008/pre_01.txt,103,Opponents...........   14   12   13    4    0 -    43
+Brooklyn College,2008,Women,Games Won by Game,Opponents,Total,43,raw_historical_all/women/2008/pre_01.txt,103,Opponents...........   14   12   13    4    0 -    43
+Brooklyn College,2008,Women,Points by Game,Brooklyn College,1,357,raw_historical_all/women/2008/pre_01.txt,111,Brooklyn College....  357  401  408   91    0 -  1257
+Brooklyn College,2008,Women,Points by Game,Brooklyn College,2,401,raw_historical_all/women/2008/pre_01.txt,111,Brooklyn College....  357  401  408   91    0 -  1257
+Brooklyn College,2008,Women,Points by Game,Brooklyn College,3,408,raw_historical_all/women/2008/pre_01.txt,111,Brooklyn College....  357  401  408   91    0 -  1257
+Brooklyn College,2008,Women,Points by Game,Brooklyn College,4,91,raw_historical_all/women/2008/pre_01.txt,111,Brooklyn College....  357  401  408   91    0 -  1257
+Brooklyn College,2008,Women,Points by Game,Brooklyn College,5,0,raw_historical_all/women/2008/pre_01.txt,111,Brooklyn College....  357  401  408   91    0 -  1257
+Brooklyn College,2008,Women,Points by Game,Brooklyn College,Total,1257,raw_historical_all/women/2008/pre_01.txt,111,Brooklyn College....  357  401  408   91    0 -  1257
+Brooklyn College,2008,Women,Points by Game,Opponents,1,456,raw_historical_all/women/2008/pre_01.txt,113,Opponents...........  456  436  462  113    0 -  1467
+Brooklyn College,2008,Women,Points by Game,Opponents,2,436,raw_historical_all/women/2008/pre_01.txt,113,Opponents...........  456  436  462  113    0 -  1467
+Brooklyn College,2008,Women,Points by Game,Opponents,3,462,raw_historical_all/women/2008/pre_01.txt,113,Opponents...........  456  436  462  113    0 -  1467
+Brooklyn College,2008,Women,Points by Game,Opponents,4,113,raw_historical_all/women/2008/pre_01.txt,113,Opponents...........  456  436  462  113    0 -  1467
+Brooklyn College,2008,Women,Points by Game,Opponents,5,0,raw_historical_all/women/2008/pre_01.txt,113,Opponents...........  456  436  462  113    0 -  1467
+Brooklyn College,2008,Women,Points by Game,Opponents,Total,1467,raw_historical_all/women/2008/pre_01.txt,113,Opponents...........  456  436  462  113    0 -  1467
+Brooklyn College,2009,Women,Match Wins by Number of Games,BC,1,0,raw_historical_all/women/2009/pre_01.txt,93,BC..................    0    0    1    1    2 -     4
+Brooklyn College,2009,Women,Match Wins by Number of Games,BC,2,0,raw_historical_all/women/2009/pre_01.txt,93,BC..................    0    0    1    1    2 -     4
+Brooklyn College,2009,Women,Match Wins by Number of Games,BC,3,1,raw_historical_all/women/2009/pre_01.txt,93,BC..................    0    0    1    1    2 -     4
+Brooklyn College,2009,Women,Match Wins by Number of Games,BC,4,1,raw_historical_all/women/2009/pre_01.txt,93,BC..................    0    0    1    1    2 -     4
+Brooklyn College,2009,Women,Match Wins by Number of Games,BC,5,2,raw_historical_all/women/2009/pre_01.txt,93,BC..................    0    0    1    1    2 -     4
+Brooklyn College,2009,Women,Match Wins by Number of Games,BC,Total,4,raw_historical_all/women/2009/pre_01.txt,93,BC..................    0    0    1    1    2 -     4
+Brooklyn College,2009,Women,Match Wins by Number of Games,Opponents,1,0,raw_historical_all/women/2009/pre_01.txt,95,Opponents...........    0    0   17    1    1 -    19
+Brooklyn College,2009,Women,Match Wins by Number of Games,Opponents,2,0,raw_historical_all/women/2009/pre_01.txt,95,Opponents...........    0    0   17    1    1 -    19
+Brooklyn College,2009,Women,Match Wins by Number of Games,Opponents,3,17,raw_historical_all/women/2009/pre_01.txt,95,Opponents...........    0    0   17    1    1 -    19
+Brooklyn College,2009,Women,Match Wins by Number of Games,Opponents,4,1,raw_historical_all/women/2009/pre_01.txt,95,Opponents...........    0    0   17    1    1 -    19
+Brooklyn College,2009,Women,Match Wins by Number of Games,Opponents,5,1,raw_historical_all/women/2009/pre_01.txt,95,Opponents...........    0    0   17    1    1 -    19
+Brooklyn College,2009,Women,Match Wins by Number of Games,Opponents,Total,19,raw_historical_all/women/2009/pre_01.txt,95,Opponents...........    0    0   17    1    1 -    19
+Brooklyn College,2009,Women,Games Won by Game,BC,1,1,raw_historical_all/women/2009/pre_01.txt,103,BC..................    1    6    4    2    2 -    15
+Brooklyn College,2009,Women,Games Won by Game,BC,2,6,raw_historical_all/women/2009/pre_01.txt,103,BC..................    1    6    4    2    2 -    15
+Brooklyn College,2009,Women,Games Won by Game,BC,3,4,raw_historical_all/women/2009/pre_01.txt,103,BC..................    1    6    4    2    2 -    15
+Brooklyn College,2009,Women,Games Won by Game,BC,4,2,raw_historical_all/women/2009/pre_01.txt,103,BC..................    1    6    4    2    2 -    15
+Brooklyn College,2009,Women,Games Won by Game,BC,5,2,raw_historical_all/women/2009/pre_01.txt,103,BC..................    1    6    4    2    2 -    15
+Brooklyn College,2009,Women,Games Won by Game,BC,Total,15,raw_historical_all/women/2009/pre_01.txt,103,BC..................    1    6    4    2    2 -    15
+Brooklyn College,2009,Women,Games Won by Game,Opponents,1,22,raw_historical_all/women/2009/pre_01.txt,105,Opponents...........   22   17   19    3    1 -    62
+Brooklyn College,2009,Women,Games Won by Game,Opponents,2,17,raw_historical_all/women/2009/pre_01.txt,105,Opponents...........   22   17   19    3    1 -    62
+Brooklyn College,2009,Women,Games Won by Game,Opponents,3,19,raw_historical_all/women/2009/pre_01.txt,105,Opponents...........   22   17   19    3    1 -    62
+Brooklyn College,2009,Women,Games Won by Game,Opponents,4,3,raw_historical_all/women/2009/pre_01.txt,105,Opponents...........   22   17   19    3    1 -    62
+Brooklyn College,2009,Women,Games Won by Game,Opponents,5,1,raw_historical_all/women/2009/pre_01.txt,105,Opponents...........   22   17   19    3    1 -    62
+Brooklyn College,2009,Women,Games Won by Game,Opponents,Total,62,raw_historical_all/women/2009/pre_01.txt,105,Opponents...........   22   17   19    3    1 -    62
+Brooklyn College,2009,Women,Points by Game,BC,1,338,raw_historical_all/women/2009/pre_01.txt,113,BC..................  338  402  418  101   42 -  1301
+Brooklyn College,2009,Women,Points by Game,BC,2,402,raw_historical_all/women/2009/pre_01.txt,113,BC..................  338  402  418  101   42 -  1301
+Brooklyn College,2009,Women,Points by Game,BC,3,418,raw_historical_all/women/2009/pre_01.txt,113,BC..................  338  402  418  101   42 -  1301
+Brooklyn College,2009,Women,Points by Game,BC,4,101,raw_historical_all/women/2009/pre_01.txt,113,BC..................  338  402  418  101   42 -  1301
+Brooklyn College,2009,Women,Points by Game,BC,5,42,raw_historical_all/women/2009/pre_01.txt,113,BC..................  338  402  418  101   42 -  1301
+Brooklyn College,2009,Women,Points by Game,BC,Total,1301,raw_historical_all/women/2009/pre_01.txt,113,BC..................  338  402  418  101   42 -  1301
+Brooklyn College,2009,Women,Points by Game,Opponents,1,573,raw_historical_all/women/2009/pre_01.txt,115,Opponents...........  573  546  562  123   38 -  1842
+Brooklyn College,2009,Women,Points by Game,Opponents,2,546,raw_historical_all/women/2009/pre_01.txt,115,Opponents...........  573  546  562  123   38 -  1842
+Brooklyn College,2009,Women,Points by Game,Opponents,3,562,raw_historical_all/women/2009/pre_01.txt,115,Opponents...........  573  546  562  123   38 -  1842
+Brooklyn College,2009,Women,Points by Game,Opponents,4,123,raw_historical_all/women/2009/pre_01.txt,115,Opponents...........  573  546  562  123   38 -  1842
+Brooklyn College,2009,Women,Points by Game,Opponents,5,38,raw_historical_all/women/2009/pre_01.txt,115,Opponents...........  573  546  562  123   38 -  1842
+Brooklyn College,2009,Women,Points by Game,Opponents,Total,1842,raw_historical_all/women/2009/pre_01.txt,115,Opponents...........  573  546  562  123   38 -  1842
